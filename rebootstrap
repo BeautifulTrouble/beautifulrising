@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Find bootstrap in parent directory
+shopt -s extglob
+BOOTSTRAPPATH=../bootstrap!(*.zip)
+
+# Edit and rebuild 
+vim ${BOOTSTRAPPATH}/less/ || exit 1
+grunt --gruntfile ${BOOTSTRAPPATH}/Gruntfile.js dist || exit 1
+
+# Copy locally
+mkdir -p ./css
+rm -vf ./css/bootstrap*
+cp -va ${BOOTSTRAPPATH}/dist/css/bootstrap* ./css

@@ -1,0 +1,244 @@
+// FONTS
+@font-face {
+    font-family: 'KlinicSlab';
+    src: url('../fonts/klinicslabboldit-webfont.eot');
+    src: url('../fonts/klinicslabboldit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/klinicslabboldit-webfont.woff') format('woff'),
+         url('../fonts/klinicslabboldit-webfont.ttf') format('truetype'),
+         url('../fonts/klinicslabboldit-webfont.svg#klinic_slabbold_italic') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KlinicSlab';
+    src: url('../fonts/klinicslabmediumit-webfont.eot');
+    src: url('../fonts/klinicslabmediumit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/klinicslabmediumit-webfont.woff') format('woff'),
+         url('../fonts/klinicslabmediumit-webfont.ttf') format('truetype'),
+         url('../fonts/klinicslabmediumit-webfont.svg#klinic_slabmedium_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url('../fonts/sourcesanspro-regular-webfont.eot');
+    src: url('../fonts/sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/sourcesanspro-regular-webfont.woff') format('woff'),
+         url('../fonts/sourcesanspro-regular-webfont.ttf') format('truetype'),
+         url('../fonts/sourcesanspro-regular-webfont.svg#source_sans_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url('../fonts/sourcesanspro-bold-webfont.eot');
+    src: url('../fonts/sourcesanspro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/sourcesanspro-bold-webfont.woff') format('woff'),
+         url('../fonts/sourcesanspro-bold-webfont.ttf') format('truetype'),
+         url('../fonts/sourcesanspro-bold-webfont.svg#source_sans_probold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+// MIXINS
+.cover(@important) {
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+}
+.cover() {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+// MEDIA QUERIES
+// Notice that @xs means "xs only" while @sm, @md & @lg mean "this size and larger"
+@xs: ~"only screen and (max-width: 767px)";
+@sm: ~"only screen and (min-width: 768px)";
+@md: ~"only screen and (min-width: 992px)";
+@lg: ~"only screen and (min-width: 1200px)";
+
+// STYLES
+body {
+    font-size: 18px;
+    background: url(data:image/gif;base64,R0lGODlhLQAtAMIDAO3z+fH2+/r8/f///////////////////yH5BAEKAAQALAAAAAAtAC0AAAOsCLHcrS4uKB0QOGt9t8fdtwFDaZ4nia6lyqLua8byQMv3m7P72sO1VHA2bBVtx5+wqCQyk9CndNg0ToNV5LWW7UapX2yYm6xEKOZJ+iHyhNogOGeMo+vsPLxPD9zW/XeAeYJ7hH1ghkuIi2KJToxkjlaQf5SBloNUawxoaZ1mb3ChbaMiXpJamIWqh42siq6xka+PspW2l7iZuqu8rbO+sMDDt8S5xrvIvcooCQA7) repeat fixed; 
+    padding-bottom: 40px;
+    @media @xs {
+        padding-top: 40px;
+    }
+}
+
+body.page-beautiful-rising {
+    // The background image is 
+    height: 100% !important;
+    width: 100% !important;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-attachment: fixed !important;
+    background-color: black !important;
+}
+@media @sm {
+    // Vertically center at small and greater sizes
+    html, body.page-beautiful-rising > div.container {
+        height: 100%;
+    }
+    body.page-beautiful-rising > div.container {
+        display: table;
+    }
+    .masthead {
+        display: table-cell;
+        vertical-align: middle;
+    }
+}
+.masthead {
+    color: white;
+    h1 { 
+        margin-bottom: 34px; 
+        margin-top: 16px;
+        font-size: 36px;
+        font-face: "SourceSansPro";
+        @media @xs {
+            margin-bottom: 34px; 
+            margin-top: 12px;
+            font-size: 31px;
+        }
+    }
+    p {
+        font-size: 18px;
+        line-height: 28px;
+        @media @xs {
+            font-size: 13px;
+        }
+    }
+}
+
+@btn-height: 40px;
+@btn-color: white;
+@btn-color-inverse: black;
+.btn {
+    color: @btn-color;        
+    background: transparent;
+    padding: 8px 18px;
+    margin: 0 8px;
+    border: 2px solid @btn-color;
+    border-radius: 0;
+    height: @btn-height;
+    text-transform: uppercase;
+    text-shadow: none;
+    font-weight: bold;
+    font-size: 16px;
+    &:hover {
+        color: inherit;
+    }
+    &:focus, &:active {
+        background: @btn-color;
+        color: @btn-color-inverse;
+    }
+}
+
+form#mc-embedded-subscribe-form {
+    ::-webkit-input-placeholder { 
+        color: white; 
+        font-style: italic;
+        font-size: 14px;
+        text-align: center;
+        line-height: @btn-height - 13;
+    }
+    ::-moz-placeholder { 
+        color: white; 
+        font-style: italic;
+        font-size: 14px;
+        text-align: center;
+    }
+    :-moz-placeholder { 
+        color: white; 
+        font-style: italic;
+        font-size: 14px;
+        text-align: center;
+    }
+    :-ms-input-placeholder { 
+        color: white; 
+        font-style: italic;
+        font-size: 14px;
+        text-align: center;
+        line-height: @btn-height - 13;
+    }
+
+    padding-top: 40px;
+    .btn {
+        // Fix form when wrapping
+        @media @xs {
+            margin-bottom: 20px;
+        }
+        @media @sm {
+            margin-bottom: 10px;
+        }
+        @media @md {
+            margin-bottom: 0;
+        }
+        &#update-trigger {
+        }
+    }
+    input {
+        &:focus, &:active {
+            outline: none;
+        }
+        position: relative;
+        height: @btn-height;
+    }
+    input[type=email] {
+        margin: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border: 2px solid white;
+        background: transparent;
+        min-width: 300px;
+        top: 1px;
+    }
+    input[type=submit] {
+        background: url(data:image/gif;base64,R0lGODlhHAAmAIAAAP///////yH5BAEKAAEALAAAAAAcACYAAAIuhI+py+0Po5y02ouz3rz7HnxBCI6luY1qqpJZ62Itt9Kxdn/6zvf+DwwKh0RIAQA7);
+        border: none;
+        width: 30px;
+        left: -16px;
+        vertical-align: middle;
+    }
+    @media @xs {
+        // TODO: ensure these are consistent with mailchimp boilerplate
+        #mce-EMAIL, #mc-embedded-subscribe {
+            display: none;
+        }
+    }
+}
+html.ie form#mc-embedded-subscribe-form input[type=email] {
+    top: 2px;   // For some reason IE positions the input box differently
+}
+
+h1 {
+}
+h2 {
+    font-size: 28px;
+    line-height: 38px;
+}
+h3 {
+}
+h4 {
+}
+h5 {
+}
+h6 {
+}
+
+.page-about .sidebar img {
+    margin-top: 10px;
+}
+

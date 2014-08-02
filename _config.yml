@@ -1,0 +1,14 @@
+# Site settings
+title: Beautiful Rising
+email: beautifulrising.org@gmail.com
+description: "A Global Toolbox for Changemakers"
+baseurl: ""
+url: "http://beautifulrising.org"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#mode: "development"
+mode: "production"
+

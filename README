@@ -1,0 +1,4 @@
+Placeholder site for Beautiful Rising
+TODO: add complete deployment instructions
+--
+rebootstrap - requires a bootstrap source distribution [upon which 'npm install' has been run] in ../bootstrap*

@@ -1,0 +1,12 @@
+{% comment %}
+The sidebar front matter can be a plain HTML string or the name of a markdown file under _includes
+{% endcomment %}
+{% if page.sidebar %}
+    {% assign words = page.sidebar | split: " " %}
+    {% if words.first == words.last and words.first contains ".md" %}
+        {% capture sidebarcontent %}{% include {{ words.first }} %}{% endcapture %}
+        {{ sidebarcontent | markdownify }}
+    {% else %}
+        {{ page.sidebar }}
+    {% endif %}
+{% endif %}
