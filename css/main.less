@@ -137,12 +137,17 @@ body.page-beautiful-rising {
     text-shadow: none;
     font-weight: bold;
     font-size: 16px;
-    &:hover {
-        color: inherit;
+
+    @tt: .2s;
+    -webkit-transition: background @tt;
+    transition: background @tt;
+    &:hover, &.active {
+        color: white;
     }
-    &:focus, &:active {
+    &:focus, &.active {
         background: @btn-color;
         color: @btn-color-inverse;
+        box-shadow: none;
     }
 }
 
@@ -175,6 +180,7 @@ form#mc-embedded-subscribe-form {
     }
 
     padding-top: 40px;
+    display: inline-block;
     .btn {
         // Fix form when wrapping
         @media @xs {
@@ -219,8 +225,8 @@ form#mc-embedded-subscribe-form {
         }
     }
 }
-html.ie form#mc-embedded-subscribe-form input[type=email] {
-    top: 2px;   // For some reason IE positions the input box differently
+html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
+    top: -2px;
 }
 
 h1 {

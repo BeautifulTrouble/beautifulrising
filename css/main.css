@@ -100,17 +100,22 @@ body.page-beautiful-rising {
   text-shadow: none;
   font-weight: bold;
   font-size: 16px;
+  -webkit-transition: background 0.2s;
+  transition: background 0.2s;
 }
-.btn:hover {
-  color: inherit;
+.btn:hover,
+.btn.active {
+  color: white;
 }
 .btn:focus,
-.btn:active {
+.btn.active {
   background: #ffffff;
   color: #000000;
+  box-shadow: none;
 }
 form#mc-embedded-subscribe-form {
   padding-top: 40px;
+  display: inline-block;
 }
 form#mc-embedded-subscribe-form ::-webkit-input-placeholder {
   color: white;
@@ -183,8 +188,8 @@ form#mc-embedded-subscribe-form input[type=submit] {
     display: none;
   }
 }
-html.ie form#mc-embedded-subscribe-form input[type=email] {
-  top: 2px;
+html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
+  top: -2px;
 }
 h2 {
   font-size: 28px;

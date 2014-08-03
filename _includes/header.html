@@ -1,6 +1,14 @@
 <header>
     <div class="row">
         <nav class="site-nav">
+            <div class="col-sm-offset-1 col-sm-3" style="background:black;">
+                <a href="/"><img src="/img/br-logo-small.png" class="logo img-responsive"></a>
+            </div>
+            <div class="col-sm-8" style="background:black;">
+                <a href="/about/" class="btn{% if page.url == "/about/" %} active{% endif %}">About</a>
+                <a href="/news/" class="btn{% if page.url == "/news/" %} active{% endif %}">News</a>
+                {% include signup_form.html %}
+            </div>
         </nav>
     </div>
 </header>
