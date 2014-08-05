@@ -1,8 +1,8 @@
 ###**About the initiating organizations:**
 
-[<img src="/img/aa-logo.png" title="ActionAid">](http://actionaid.org)
+[<img src="/img/aa-logo.png" title="ActionAid Denmark">](http://ms.dk/en/)
 
-**ActionAid** is an international organization based in Johannesburg that works with over 15 million people in 45 countries for a world free from poverty and injustice.
+**ActionAid Denmark** is part of ActionAid, an international organization based in Johannesburg that works with over 15 million people in 45 countries for a world free from poverty and injustice.
 
 [<img src="/img/bt-logo.png" title="Beautiful Trouble">](http://beautifultrouble.org)
 
@@ -14,4 +14,4 @@ Coming Soon
 <br>
 <br>
 
-_For more information, contact project manager Søren Warburg at [swa@ms.dk](mailto:swa@ms.dk) or tweet [@sorenwar](http://twitter.com/sorenwar)._
+_For more information, contact project manager Søren Warburg at swa (at) ms.dk or tweet [@sorenwar](http://twitter.com/sorenwar)._
