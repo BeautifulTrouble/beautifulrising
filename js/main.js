@@ -1,1 +1,1 @@
-
+jQuery('.sidebar').scrollToFixed();
