@@ -165,6 +165,25 @@ body.page-beautiful-rising {
     }
 }
 
+.social-icon {
+    display: inline-block;
+    position: relative;
+    color: white;
+    background: @text-color;
+    width: 36px;
+    height: 36px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    i {
+        position: absolute;
+        &.fa-facebook { font-size: 31px; left: 11px; top: 8px; }
+        &.fa-twitter { font-size: 26px; left: 6px; top: 5px; }
+        &.fa-google-plus { font-size: 46px; left: -4px; top: -4px; }
+    }
+}
+
 form#mc-embedded-subscribe-form {
     ::-webkit-input-placeholder { 
         color: white; 

@@ -131,6 +131,36 @@ body.page-beautiful-rising {
   color: #000000;
   box-shadow: none;
 }
+.social-icon {
+  display: inline-block;
+  position: relative;
+  color: white;
+  background: #78765b;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+  border-radius: 5px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.social-icon i {
+  position: absolute;
+}
+.social-icon i.fa-facebook {
+  font-size: 31px;
+  left: 11px;
+  top: 8px;
+}
+.social-icon i.fa-twitter {
+  font-size: 26px;
+  left: 6px;
+  top: 5px;
+}
+.social-icon i.fa-google-plus {
+  font-size: 46px;
+  left: -4px;
+  top: -4px;
+}
 form#mc-embedded-subscribe-form {
   display: inline-block;
 }
