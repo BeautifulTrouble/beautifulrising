@@ -5,9 +5,12 @@
                 <a href="/"><img src="/img/br-logo-small.png" class="logo img-responsive"></a>
             </div>
             <div class="col-sm-5 col-md-7">
-                <div class="right">
-                    <a href="/about/" class="btn{% if page.url == "/about/" %} active{% endif %}">About</a>
-                    <a href="/news/" class="btn{% if page.url == "/news/" %} active{% endif %}">News</a>
+                {% capture page_buttons %}
+                <a href="/about/" class="btn{% if page.url == "/about/" %} active{% endif %}">About</a>
+                <a href="/news/" class="btn{% if page.url == "/news/" %} active{% endif %}">News</a>
+                {% endcapture %}
+                <div class="right hidden-xs">
+                    {{ page_buttons }}
                     {% include signup_form.html %}
                 </div>
             </div>

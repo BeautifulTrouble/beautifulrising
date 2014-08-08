@@ -77,15 +77,22 @@ html {
 }
 body {
     font-size: 18px;
-    background: url(data:image/gif;base64,R0lGODlhLQAtAMIDAO3z+fH2+/r8/f///////////////////yH5BAEKAAQALAAAAAAtAC0AAAOsCLHcrS4uKB0QOGt9t8fdtwFDaZ4nia6lyqLua8byQMv3m7P72sO1VHA2bBVtx5+wqCQyk9CndNg0ToNV5LWW7UapX2yYm6xEKOZJ+iHyhNogOGeMo+vsPLxPD9zW/XeAeYJ7hH1ghkuIi2KJToxkjlaQf5SBloNUawxoaZ1mb3ChbaMiXpJamIWqh42siq6xka+PspW2l7iZuqu8rbO+sMDDt8S5xrvIvcooCQA7) repeat fixed; 
     padding-bottom: 40px;
-    @media @xs {
-        padding-top: 40px;
-    }
 }
-
-body.page-beautiful-rising {
-    // The background image is 
+.bg-grid {
+    position: fixed;
+    top: 0; bottom: 0; left: 0; right: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -9999;
+    opacity: 1;
+    background: url(data:image/gif;base64,R0lGODlhLQAtAMIDAO3z+fH2+/r8/f///////////////////yH5BAEKAAQALAAAAAAtAC0AAAOsCLHcrS4uKB0QOGt9t8fdtwFDaZ4nia6lyqLua8byQMv3m7P72sO1VHA2bBVtx5+wqCQyk9CndNg0ToNV5LWW7UapX2yYm6xEKOZJ+iHyhNogOGeMo+vsPLxPD9zW/XeAeYJ7hH1ghkuIi2KJToxkjlaQf5SBloNUawxoaZ1mb3ChbaMiXpJamIWqh42siq6xka+PspW2l7iZuqu8rbO+sMDDt8S5xrvIvcooCQA7) repeat fixed; 
+}
+.page-beautiful-rising {
+    .bg-grid {
+        background: url(data:image/gif;base64,R0lGODlhLQAtAPEAAAAAACEgGzU0LAAAACH5BAAAAAAALAAAAAAtAC0AAAKfVI6Zpn3sFIxo0mCpALx7v30iF45faXZoCqypa8KjLNInC+KqTvKtb8vxgrsh8GhM6og9JY75c7KgVOTS+sROgZdFt/J9hDHjTKQqfWnV6dja3Z695fHa3F6/5YXXfbEPmOXXFLg1GFXIlgi3OFP2GGbmINlAKXGn14inmSnIyecZavj5J6poyohKR0qouunaOQoLKlt7apuKuzpbylIAADs=) repeat fixed;
+        opacity: .5;
+    }
     height: 100% !important;
     width: 100% !important;
     overflow-x: hidden !important;
@@ -99,9 +106,11 @@ body.page-beautiful-rising {
     background-position: center center !important;
     background-attachment: fixed !important;
     background-color: black !important;
+    @media @xs {
+        padding-top: 40px;
+    }
 }
 @media @sm {
-    // Vertically center at small and greater sizes
     html, body.page-beautiful-rising > div.container {
         height: 100%;
     }
@@ -130,11 +139,23 @@ body.page-beautiful-rising {
         font-size: 18px;
         line-height: 28px;
         @media @xs {
-            font-size: 13px;
+            font-size: 16px;
         }
     }
     .masthead-form {
         margin-top: 40px;
+        @media @xs {
+            margin-top: 22px;
+            #update-trigger {
+                margin-top: 20px;
+            }
+        }
+        @media @sm {
+            form { margin-top: 10px; }
+        }
+        @media @md {
+            form { margin-top: 0px; }
+        }
     }
 }
 
@@ -158,6 +179,7 @@ body.page-beautiful-rising {
     -webkit-transition: all @tt ease;
     transition: all @tt ease;
 
+    &:focus { color: @btn-color; }
     &:hover, &.active {
         background-color: @btn-color;
         color: @btn-color-inverse;
@@ -209,21 +231,6 @@ form#mc-embedded-subscribe-form {
     }
 
     display: inline-block;
-    .btn {
-        // Fix form when wrapping
-        // TODO: this is broken when form is in header.
-        @media @xs {
-            //margin-bottom: 20px;
-        }
-        @media @sm {
-            //margin-bottom: 10px;
-        }
-        @media @md {
-            //margin-bottom: 0;
-        }
-        &#update-trigger {
-        }
-    }
     input {
         &:focus, &:active {
             outline: none;
@@ -295,12 +302,15 @@ hr {
     .right {
         margin-right: -12px; // Nudge form rightward
     }
-    background-image: url('/img/header-bg.png');
-    height: 132px;
-    padding-right: 9999px;
-    margin-right: -9999px;
-    background-repeat: no-repeat;
-    @media @sm { background-position: 48px; }
+    @media @sm { 
+        height: 132px;
+        padding-right: 9999px;
+        margin-right: -9999px;
+        background-repeat: no-repeat;
+        background-image: url('/img/header-bg.png');
+        background-position: 48px; 
+    }
     @media @md { background-position: 64px; }
     @media @lg { background-position: 80px; }
 }
+
