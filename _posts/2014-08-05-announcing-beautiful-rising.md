@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Announcing Beautiful Rising - A Global Toolbox for Changemakers!"
-image: /img/post.png
+image: /assets/announce.jpg
 author: Søren Warburg
 ---
 
