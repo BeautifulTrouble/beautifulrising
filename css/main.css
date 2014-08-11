@@ -121,6 +121,11 @@ body {
   color: #000000;
   box-shadow: none;
 }
+@media only screen and (max-width: 767px) {
+  h1 {
+    font-size: 30px;
+  }
+}
 h2 {
   font-size: 28px;
   line-height: 38px;
@@ -242,6 +247,10 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
 .site-nav #menu-content {
   padding-top: 40px;
 }
+.site-nav #menu-content #menu-update-content p {
+  padding-left: 15%;
+  padding-right: 15%;
+}
 @media only screen and (max-width: 767px) {
   header nav {
     padding-top: 5%;
@@ -310,9 +319,8 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
 }
 @media only screen and (max-width: 767px) {
   .masthead h1 {
-    margin-bottom: 34px;
     margin-top: 12px;
-    font-size: 31px;
+    font-size: 30px;
   }
 }
 .masthead p {

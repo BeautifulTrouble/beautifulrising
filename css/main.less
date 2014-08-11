@@ -157,6 +157,9 @@ body {
 }
 
 h1 {
+    @media @xs {
+        font-size: 30px;
+    }
 }
 h2 {
     font-size: 28px;
@@ -263,6 +266,12 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
     }
     #menu-content {
         padding-top: 40px; // TODO: replace with real vertical center
+        #menu-update-content {
+            p {
+                padding-left: 15%;
+                padding-right: 15%;
+            }
+        }
     }
 }
 
@@ -321,9 +330,8 @@ header nav {
         font-size: 36px;
         font-face: "SourceSansPro";
         @media @xs {
-            margin-bottom: 34px; 
             margin-top: 12px;
-            font-size: 31px;
+            font-size: 30px;
         }
     }
     p {
