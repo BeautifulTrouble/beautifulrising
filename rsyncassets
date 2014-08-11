@@ -1,0 +1,6 @@
+#!/bin/bash
+
+HOST=beautifulrising.org
+USER=beautifulrising
+
+rsync -zuvvac ../assets beautifulrising@beautifulrising.org:
