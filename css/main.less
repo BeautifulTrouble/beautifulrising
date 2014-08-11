@@ -249,8 +249,11 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
     top: -2px;
 }
 
-// Homepage & mobile nav
+// Homepage & mobile overlay nav
+@receive-updates-width: 190px;
+.receive-updates { width: @receive-updates-width; }
 .site-nav {
+    // The menu itself
     #menu-overlay {
         position: fixed;
         top: 0; bottom: -500px; left: 0; right: 0;
@@ -264,12 +267,28 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
             margin-bottom: 0;
         }
     }
+    // The menu content
     #menu-content {
         padding-top: 40px; // TODO: replace with real vertical center
+        // Updates toggle button
+        #menu-update {
+            margin-bottom: 0;
+        }
+        // Updates content
         #menu-update-content {
             p {
                 padding-left: 15%;
                 padding-right: 15%;
+            }
+            .triangle {
+                .receive-updates;
+                display: inline-block;
+                height: 0;
+                border-style: solid;
+                border-width: 16px @receive-updates-width / 2 0 @receive-updates-width / 2;
+                border-color: white transparent transparent transparent;
+                position: relative;
+                top: -2px; // without this, bizarre spacing appears
             }
         }
     }
@@ -277,6 +296,7 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
 
 // Header nav
 header nav {
+    // Narrow / mobile
     @media @xs {
         padding-top: 5%;
         padding-bottom: 15%;
@@ -290,6 +310,7 @@ header nav {
             opacity: .7;
         }
     }
+    // Wide header nav
     // Lots of kludges to make things fit; better ideas welcome!
     @media @sm { 
         > div {

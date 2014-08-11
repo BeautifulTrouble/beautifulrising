@@ -228,6 +228,9 @@ form#mc-embedded-subscribe-form input[type=submit] {
 html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
   top: -2px;
 }
+.receive-updates {
+  width: 190px;
+}
 .site-nav #menu-overlay {
   position: fixed;
   top: 0;
@@ -247,9 +250,22 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
 .site-nav #menu-content {
   padding-top: 40px;
 }
+.site-nav #menu-content #menu-update {
+  margin-bottom: 0;
+}
 .site-nav #menu-content #menu-update-content p {
   padding-left: 15%;
   padding-right: 15%;
+}
+.site-nav #menu-content #menu-update-content .triangle {
+  width: 190px;
+  display: inline-block;
+  height: 0;
+  border-style: solid;
+  border-width: 16px 95px 0 95px;
+  border-color: white transparent transparent transparent;
+  position: relative;
+  top: -2px;
 }
 @media only screen and (max-width: 767px) {
   header nav {
