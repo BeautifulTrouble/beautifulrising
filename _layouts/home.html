@@ -20,12 +20,18 @@ layout: base
         </div>
     </div>
     <div class="row">
-        <div class="col-xs-offset-1 col-xs-10 col-sm-offset-2 col-sm-8">
-            <div class="masthead-form">
+        <nav class="site-nav masthead-form">
+            <div class="col-xs-offset-1 col-xs-10 col-sm-offset-2 col-sm-8">
                 <a href="/about/" class="btn">About</a>
                 <a href="/news/" class="btn">News</a>
-                {% include signup_form.html %}
+                <div class="visible-xs">
+                    <a href="#" class="btn" id="menu-button">Receive Updates</a>
+                    {% include menu_overlay.html %}
+                </div>
+                <span class="hidden-xs">
+                    {% include signup_form.html %}
+                </span>
             </div>
-        </div>
+        </nav>
     </div>
 </div>

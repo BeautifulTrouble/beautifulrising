@@ -1,16 +1,24 @@
 <header>
     <div class="row">
-        <nav class="site-nav">
+        <nav class="site-nav visible-xs">
+            <img src="/img/header-bg-small.png">
+            <div class="col-xs-6">
+                <a href="/"><img src="/img/br-logo-large.png" class="logo img-responsive"></a>
+            </div>
+            <div id="menu-button" class="col-xs-offset-4 col-xs-2">
+                <a href="#"><img src="/img/menu-button.png" class="img-responsive pull-right"></a>
+            </div>
+            {% include menu_overlay.html %}
+        </nav>
+
+        <nav class="site-nav hidden-xs">
             <div class="col-sm-offset-1 col-sm-6 col-md-4">
                 <a href="/"><img src="/img/br-logo-small.png" class="logo img-responsive"></a>
             </div>
             <div class="col-sm-5 col-md-7">
-                {% capture page_buttons %}
-                <a href="/about/" class="btn{% if page.url == "/about/" %} active{% endif %}">About</a>
-                <a href="/news/" class="btn{% if page.url == "/news/" %} active{% endif %}">News</a>
-                {% endcapture %}
-                <div class="right hidden-xs">
-                    {{ page_buttons }}
+                <div class="pull-right">
+                    <a href="/about/" class="btn{% if page.url == "/about/" %} active{% endif %}">About</a>
+                    <a href="/news/" class="btn{% if page.url == "/news/" %} active{% endif %}">News</a>
                     {% include signup_form.html %}
                 </div>
             </div>

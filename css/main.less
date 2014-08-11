@@ -1,7 +1,5 @@
 // FONTS
-@font-face {
-    font-family: 'KlinicSlab';
-    src: url('../fonts/klinicslabboldit-webfont.eot');
+@font-face { font-family: 'KlinicSlab'; src: url('../fonts/klinicslabboldit-webfont.eot');
     src: url('../fonts/klinicslabboldit-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/klinicslabboldit-webfont.woff') format('woff'),
          url('../fonts/klinicslabboldit-webfont.ttf') format('truetype'),
@@ -41,17 +39,18 @@
 }
 
 // MIXINS
-.cover(@important) {
-    -webkit-background-size: cover !important;
-    -moz-background-size: cover !important;
-    -o-background-size: cover !important;
-    background-size: cover !important;
-}
 .cover() {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+.vertical-align() {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
 // MEDIA QUERIES
@@ -122,42 +121,6 @@ body {
         vertical-align: middle;
     }
 }
-.masthead {
-    color: white;
-    h1 { 
-        margin-bottom: 34px; 
-        margin-top: 16px;
-        font-size: 36px;
-        font-face: "SourceSansPro";
-        @media @xs {
-            margin-bottom: 34px; 
-            margin-top: 12px;
-            font-size: 31px;
-        }
-    }
-    p {
-        font-size: 18px;
-        line-height: 28px;
-        @media @xs {
-            font-size: 16px;
-        }
-    }
-    .masthead-form {
-        margin-top: 40px;
-        @media @xs {
-            margin-top: 22px;
-            #update-trigger {
-                margin-top: 20px;
-            }
-        }
-        @media @sm {
-            form { margin-top: 10px; }
-        }
-        @media @md {
-            form { margin-top: 0px; }
-        }
-    }
-}
 
 @btn-height: 40px;
 @btn-color: white;
@@ -166,7 +129,7 @@ body {
     color: @btn-color;        
     background-color: transparent;
     padding: 8px 18px;
-    margin: 0 8px;
+    margin: 8px;
     border: 2px solid @btn-color;
     border-radius: 0;
     height: @btn-height;
@@ -187,25 +150,85 @@ body {
     }
 }
 
-.social-icon {
-    display: inline-block;
-    position: relative;
-    color: white;
-    background: @text-color;
-    width: 36px;
-    height: 36px;
-    overflow: hidden;
-    border-radius: 5px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    i {
-        position: absolute;
-        &.fa-facebook { font-size: 31px; left: 11px; top: 8px; }
-        &.fa-twitter { font-size: 26px; left: 6px; top: 5px; }
-        &.fa-google-plus { font-size: 46px; left: -4px; top: -4px; }
+h1 {
+}
+h2 {
+    font-size: 28px;
+    line-height: 38px;
+}
+h3 {
+}
+h4 {
+}
+h5 {
+}
+h6 {
+}
+hr {
+    border: solid @text-color;
+    border-width: 1px 0 0;
+    clear: both;
+    height: 0;
+    margin-bottom: 0;
+}
+
+// NAV
+// Homepage & mobile nav
+.site-nav {
+    #menu-overlay {
+        position: fixed;
+        top: 0; bottom: -500px; left: 0; right: 0;
+        background: rgba(0,0,0,.8);
+        padding-top: 5%;
+        z-index: 9999;
+        text-align: center;
+        p {
+            font-style: italic;
+            color: white;
+            margin-bottom: 0;
+        }
+    }
+    #menu-content {
+        padding-top: 40px; // TODO: replace with real vertical center
     }
 }
 
+// Header nav
+header nav {
+    @media @xs {
+        padding-top: 5%;
+        padding-bottom: 15%;
+        > img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: auto;
+        }
+        #menu-button img {
+            opacity: .7;
+        }
+    }
+    @media @sm { 
+        > div {
+            margin-top: 28px;
+            margin-bottom: 56px;
+        }
+        .pull-right {
+            margin-right: -12px; // Nudge form rightward
+        }
+        height: 132px;
+        padding-right: 9999px;
+        margin-right: -9999px;
+        background-repeat: no-repeat;
+        background-image: url('/img/header-bg.png');
+        background-position: 48px; 
+    }
+    @media @md { background-position: 64px; }
+    @media @lg { background-position: 80px; }
+}
+
+// Mailchimp form
 form#mc-embedded-subscribe-form {
     ::-webkit-input-placeholder { 
         color: white; 
@@ -246,71 +269,75 @@ form#mc-embedded-subscribe-form {
         border: 2px solid white;
         background-color: transparent;
         top: 1px;
+        @media @xs {
+            width: 70%;
+        }
         @media @lg {
-            min-width: 330px;
+            width: 330px;
         }
     }
     input[type=submit] {
         background: url(data:image/gif;base64,R0lGODlhHAAmAIAAAP///////yH5BAEKAAEALAAAAAAcACYAAAIuhI+py+0Po5y02ouz3rz7HnxBCI6luY1qqpJZ62Itt9Kxdn/6zvf+DwwKh0RIAQA7); // Arrow
         border: none;
         width: 30px;
-        left: -16px;
+        left: -10px;
         vertical-align: middle;
-    }
-    @media @xs {
-        // TODO: ensure these are consistent with mailchimp boilerplate
-        #mce-EMAIL, #mc-embedded-subscribe {
-            display: none;
-        }
     }
 }
 html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
     top: -2px;
 }
 
-h1 {
-}
-h2 {
-    font-size: 28px;
-    line-height: 38px;
-}
-h3 {
-}
-h4 {
-}
-h5 {
-}
-h6 {
-}
-hr {
-    border: solid @text-color;
-    border-width: 1px 0 0;
-    clear: both;
-    height: 0;
-    margin-bottom: 0;
+// SPECIFIC PAGE TWEAKS
+.masthead {
+    color: white;
+    h1 { 
+        margin-bottom: 34px; 
+        margin-top: 16px;
+        font-size: 36px;
+        font-face: "SourceSansPro";
+        @media @xs {
+            margin-bottom: 34px; 
+            margin-top: 12px;
+            font-size: 31px;
+        }
+    }
+    p {
+        font-size: 18px;
+        line-height: 28px;
+        @media @xs {
+            font-size: 16px;
+        }
+    }
+    .masthead-form {
+        margin-top: 40px;
+        @media @xs {
+            margin-top: 22px;
+        }
+    }
 }
 
 .page-about .sidebar img {
     margin-top: 10px;
 }
 
-.site-nav {
-    > div {
-        margin-top: 28px;
-        margin-bottom: 56px;
+// BLOAT
+.social-icon {
+    display: inline-block;
+    position: relative;
+    color: white;
+    background: @text-color;
+    width: 36px;
+    height: 36px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    i {
+        position: absolute;
+        &.fa-facebook { font-size: 31px; left: 11px; top: 8px; }
+        &.fa-twitter { font-size: 26px; left: 6px; top: 5px; }
+        &.fa-google-plus { font-size: 46px; left: -4px; top: -4px; }
     }
-    .right {
-        margin-right: -12px; // Nudge form rightward
-    }
-    @media @sm { 
-        height: 132px;
-        padding-right: 9999px;
-        margin-right: -9999px;
-        background-repeat: no-repeat;
-        background-image: url('/img/header-bg.png');
-        background-position: 48px; 
-    }
-    @media @md { background-position: 64px; }
-    @media @lg { background-position: 80px; }
 }
 

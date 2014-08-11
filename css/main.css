@@ -97,57 +97,11 @@ body {
     vertical-align: middle;
   }
 }
-.masthead {
-  color: white;
-}
-.masthead h1 {
-  margin-bottom: 34px;
-  margin-top: 16px;
-  font-size: 36px;
-  font-face: "SourceSansPro";
-}
-@media only screen and (max-width: 767px) {
-  .masthead h1 {
-    margin-bottom: 34px;
-    margin-top: 12px;
-    font-size: 31px;
-  }
-}
-.masthead p {
-  font-size: 18px;
-  line-height: 28px;
-}
-@media only screen and (max-width: 767px) {
-  .masthead p {
-    font-size: 16px;
-  }
-}
-.masthead .masthead-form {
-  margin-top: 40px;
-}
-@media only screen and (max-width: 767px) {
-  .masthead .masthead-form {
-    margin-top: 22px;
-  }
-  .masthead .masthead-form #update-trigger {
-    margin-top: 20px;
-  }
-}
-@media only screen and (min-width: 768px) {
-  .masthead .masthead-form form {
-    margin-top: 10px;
-  }
-}
-@media only screen and (min-width: 992px) {
-  .masthead .masthead-form form {
-    margin-top: 0px;
-  }
-}
 .btn {
   color: #ffffff;
   background-color: transparent;
   padding: 8px 18px;
-  margin: 0 8px;
+  margin: 8px;
   border: 2px solid #ffffff;
   border-radius: 0;
   height: 40px;
@@ -167,35 +121,78 @@ body {
   color: #000000;
   box-shadow: none;
 }
-.social-icon {
-  display: inline-block;
-  position: relative;
+h2 {
+  font-size: 28px;
+  line-height: 38px;
+}
+hr {
+  border: solid #78765b;
+  border-width: 1px 0 0;
+  clear: both;
+  height: 0;
+  margin-bottom: 0;
+}
+.site-nav #menu-overlay {
+  position: fixed;
+  top: 0;
+  bottom: -500px;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.8);
+  padding-top: 5%;
+  z-index: 9999;
+  text-align: center;
+}
+.site-nav #menu-overlay p {
+  font-style: italic;
   color: white;
-  background: #78765b;
-  width: 36px;
-  height: 36px;
-  overflow: hidden;
-  border-radius: 5px;
-  margin-right: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 0;
 }
-.social-icon i {
-  position: absolute;
+.site-nav #menu-content {
+  padding-top: 40px;
 }
-.social-icon i.fa-facebook {
-  font-size: 31px;
-  left: 11px;
-  top: 8px;
+@media only screen and (max-width: 767px) {
+  header nav {
+    padding-top: 5%;
+    padding-bottom: 15%;
+  }
+  header nav > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+  }
+  header nav #menu-button img {
+    opacity: .7;
+  }
 }
-.social-icon i.fa-twitter {
-  font-size: 26px;
-  left: 6px;
-  top: 5px;
+@media only screen and (min-width: 768px) {
+  header nav {
+    height: 132px;
+    padding-right: 9999px;
+    margin-right: -9999px;
+    background-repeat: no-repeat;
+    background-image: url('/img/header-bg.png');
+    background-position: 48px;
+  }
+  header nav > div {
+    margin-top: 28px;
+    margin-bottom: 56px;
+  }
+  header nav .pull-right {
+    margin-right: -12px;
+  }
 }
-.social-icon i.fa-google-plus {
-  font-size: 46px;
-  left: -4px;
-  top: -4px;
+@media only screen and (min-width: 992px) {
+  header nav {
+    background-position: 64px;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  header nav {
+    background-position: 80px;
+  }
 }
 form#mc-embedded-subscribe-form {
   display: inline-block;
@@ -239,65 +236,89 @@ form#mc-embedded-subscribe-form input[type=email] {
   background-color: transparent;
   top: 1px;
 }
+@media only screen and (max-width: 767px) {
+  form#mc-embedded-subscribe-form input[type=email] {
+    width: 70%;
+  }
+}
 @media only screen and (min-width: 1200px) {
   form#mc-embedded-subscribe-form input[type=email] {
-    min-width: 330px;
+    width: 330px;
   }
 }
 form#mc-embedded-subscribe-form input[type=submit] {
   background: url(data:image/gif;base64,R0lGODlhHAAmAIAAAP///////yH5BAEKAAEALAAAAAAcACYAAAIuhI+py+0Po5y02ouz3rz7HnxBCI6luY1qqpJZ62Itt9Kxdn/6zvf+DwwKh0RIAQA7);
   border: none;
   width: 30px;
-  left: -16px;
+  left: -10px;
   vertical-align: middle;
-}
-@media only screen and (max-width: 767px) {
-  form#mc-embedded-subscribe-form #mce-EMAIL,
-  form#mc-embedded-subscribe-form #mc-embedded-subscribe {
-    display: none;
-  }
 }
 html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
   top: -2px;
 }
-h2 {
-  font-size: 28px;
-  line-height: 38px;
+.masthead {
+  color: white;
 }
-hr {
-  border: solid #78765b;
-  border-width: 1px 0 0;
-  clear: both;
-  height: 0;
-  margin-bottom: 0;
+.masthead h1 {
+  margin-bottom: 34px;
+  margin-top: 16px;
+  font-size: 36px;
+  font-face: "SourceSansPro";
+}
+@media only screen and (max-width: 767px) {
+  .masthead h1 {
+    margin-bottom: 34px;
+    margin-top: 12px;
+    font-size: 31px;
+  }
+}
+.masthead p {
+  font-size: 18px;
+  line-height: 28px;
+}
+@media only screen and (max-width: 767px) {
+  .masthead p {
+    font-size: 16px;
+  }
+}
+.masthead .masthead-form {
+  margin-top: 40px;
+}
+@media only screen and (max-width: 767px) {
+  .masthead .masthead-form {
+    margin-top: 22px;
+  }
 }
 .page-about .sidebar img {
   margin-top: 10px;
 }
-.site-nav > div {
-  margin-top: 28px;
-  margin-bottom: 56px;
+.social-icon {
+  display: inline-block;
+  position: relative;
+  color: white;
+  background: #78765b;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+  border-radius: 5px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
-.site-nav .right {
-  margin-right: -12px;
+.social-icon i {
+  position: absolute;
 }
-@media only screen and (min-width: 768px) {
-  .site-nav {
-    height: 132px;
-    padding-right: 9999px;
-    margin-right: -9999px;
-    background-repeat: no-repeat;
-    background-image: url('/img/header-bg.png');
-    background-position: 48px;
-  }
+.social-icon i.fa-facebook {
+  font-size: 31px;
+  left: 11px;
+  top: 8px;
 }
-@media only screen and (min-width: 992px) {
-  .site-nav {
-    background-position: 64px;
-  }
+.social-icon i.fa-twitter {
+  font-size: 26px;
+  left: 6px;
+  top: 5px;
 }
-@media only screen and (min-width: 1200px) {
-  .site-nav {
-    background-position: 80px;
-  }
+.social-icon i.fa-google-plus {
+  font-size: 46px;
+  left: -4px;
+  top: -4px;
 }
