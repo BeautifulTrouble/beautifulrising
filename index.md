@@ -2,11 +2,21 @@
 layout: home
 title: Beautiful Rising
 backgrounds:
- - /assets/bg1.jpg
- - /assets/bg2.jpg
- - /assets/bg3.jpg
- - /assets/bg4.jpg
- - /assets/bg5.jpg
+ - image: /assets/bg1.jpg
+   credit: "G.M.B. Akash/Panos/ActionAid"
+   description: "Hafeza Khatun facilitates a Reflect circle at Fathapur, Shahrasti, Chandpur, Bangladesh."
+ - image: /assets/bg2.jpg
+   credit: "Ranjan Rahi/ActionAid"
+   description: "Land Rights Activists shout slogans during VISHAL SANKALP SABHA at RíBlock Chauraha, Harding Park in Patna."
+ - image: /assets/bg3.jpg
+   credit: "Nicola Bailey/ActionAid"
+   description: "Female garment workers attending the AA-supported Rights Café calling for respect of labor laws."
+ - image: /assets/bg4.jpg
+   credit: "Kristian Buus/ActionAid"
+   description: "Over a hundred 16-25 year olds join a creative paint-fueled event in support of the Enough Food IF campaign."
+ - image: /assets/bg5.jpg
+   credit: "Roberto Escobar / EFE"
+   description: "Activista El Salvador celebrates the 22nd anniversary of the peace agreement ending civil war and making way for democracy."
 ---
 
 #A Global Toolbox for Changemakers 

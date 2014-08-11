@@ -52,6 +52,12 @@
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
+.rotate(@angle) {
+    -webkit-transform: rotate(@angle);
+    -moz-transform: rotate(@angle);
+    -ms-transform: rotate(@angle);
+    -o-transform: rotate(@angle);
+}
 
 // MEDIA QUERIES
 // Notice that @xs means "xs only" while @sm, @md & @lg mean "this size and larger"
@@ -63,6 +69,7 @@
 // MISC
 @brand-primary: #59c8f3; // Also in variables.less
 @text-color: #78765b; // Also in variables.less
+@tt: .5s; // Transition time
 .right { float: right; }
 .left { float: left; }
 .block { display: block; }
@@ -138,7 +145,6 @@ body {
     font-weight: bold;
     font-size: 16px;
 
-    @tt: .5s;
     -webkit-transition: all @tt ease;
     transition: all @tt ease;
 
@@ -315,6 +321,24 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
             margin-top: 22px;
         }
     }
+    #photo-credit {
+        padding: 10px;
+        margin-bottom: 0;
+        line-height: 1;
+        font-size: 14px;
+        text-align: right;
+        max-width: 25%;
+        position: absolute;
+        bottom: 0; right: 0;
+        @media @xs {
+            text-align: center;
+            position: static;
+            max-width: none;
+            padding-top: 40px;
+            padding-left: 20%;
+            padding-right: 20%;
+        }
+    }
 }
 
 .page-about .sidebar img {
@@ -341,3 +365,9 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
     }
 }
 
+.semi-trans {
+    -webkit-transition: opacity @tt ease;
+    transition: opacity @tt ease;
+    opacity: .7;
+    &:hover { opacity: 1; }
+}

@@ -289,6 +289,27 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
     margin-top: 22px;
   }
 }
+.masthead #photo-credit {
+  padding: 10px;
+  margin-bottom: 0;
+  line-height: 1;
+  font-size: 14px;
+  text-align: right;
+  max-width: 25%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+@media only screen and (max-width: 767px) {
+  .masthead #photo-credit {
+    text-align: center;
+    position: static;
+    max-width: none;
+    padding-top: 40px;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+}
 .page-about .sidebar img {
   margin-top: 10px;
 }
@@ -321,4 +342,12 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
   font-size: 46px;
   left: -4px;
   top: -4px;
+}
+.semi-trans {
+  -webkit-transition: opacity 0.5s ease;
+  transition: opacity 0.5s ease;
+  opacity: .7;
+}
+.semi-trans:hover {
+  opacity: 1;
 }
