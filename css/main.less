@@ -179,6 +179,73 @@ hr {
 }
 
 // NAV
+// Mailchimp form
+form#mc-embedded-subscribe-form {
+    .__placeholder() {
+        color: white; 
+        font-style: italic;
+        font-size: 14px;
+        @media @xs {
+            color: transparent;
+        }
+    }
+    ::-webkit-input-placeholder { 
+        .__placeholder;
+        line-height: @btn-height - 13;
+    }
+    ::-moz-placeholder { 
+        .__placeholder; 
+    }
+    :-moz-placeholder { 
+        .__placeholder;
+    }
+    :-ms-input-placeholder { 
+        .__placeholder;
+        line-height: @btn-height - 13;
+    }
+
+    display: inline-block;
+    input {
+        &:focus, &:active {
+            outline: none;
+        }
+        position: relative;
+        height: @btn-height;
+        -webkit-appearance: none; // Does this fix iPhone button rounding?
+        -webkit-border-radius: 0;
+    }
+    input[type=email] {
+        color: white;
+        margin: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border: 2px solid white;
+        background-color: transparent;
+        top: 1px;   // XXX: some browsers draw this thing ±1px high/low
+        @media @xs {
+            width: 70%;
+        }
+        @media @sm {
+            display: inline-block;
+            width: 300px;
+        }
+        @media @lg {
+            width: 330px;
+        }
+    }
+    input[type=submit] {
+        background: url(data:image/gif;base64,R0lGODlhHAAmAIAAAP///////yH5BAEKAAEALAAAAAAcACYAAAIuhI+py+0Po5y02ouz3rz7HnxBCI6luY1qqpJZ62Itt9Kxdn/6zvf+DwwKh0RIAQA7); // Arrow
+        background-repeat: none;
+        border: none;
+        width: 30px;
+        left: -10px;
+        vertical-align: middle;
+    }
+}
+html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
+    top: -2px;
+}
+
 // Homepage & mobile nav
 .site-nav {
     #menu-overlay {
@@ -206,8 +273,7 @@ header nav {
         padding-bottom: 15%;
         > img {
             position: absolute;
-            top: 0;
-            left: 0;
+            top: 0; left: 0;
             width: 100%;
             height: auto;
         }
@@ -215,13 +281,14 @@ header nav {
             opacity: .7;
         }
     }
+    // Lots of kludges to make things fit; better ideas welcome!
     @media @sm { 
         > div {
             margin-top: 28px;
             margin-bottom: 56px;
         }
         .pull-right {
-            margin-right: -12px; // Nudge form rightward
+            margin-right: -10px; // Nudge form rightward
         }
         height: 132px;
         padding-right: 9999px;
@@ -229,69 +296,20 @@ header nav {
         background-repeat: no-repeat;
         background-image: url('/img/header-bg.png');
         background-position: 48px; 
-    }
-    @media @md { background-position: 64px; }
-    @media @lg { background-position: 80px; }
-}
-
-// Mailchimp form
-form#mc-embedded-subscribe-form {
-    ::-webkit-input-placeholder { 
-        color: white; 
-        font-style: italic;
-        font-size: 14px;
-        line-height: @btn-height - 13;
-    }
-    ::-moz-placeholder { 
-        color: white; 
-        font-style: italic;
-        font-size: 14px;
-    }
-    :-moz-placeholder { 
-        color: white; 
-        font-style: italic;
-        font-size: 14px;
-    }
-    :-ms-input-placeholder { 
-        color: white; 
-        font-style: italic;
-        font-size: 14px;
-        line-height: @btn-height - 13;
-    }
-
-    display: inline-block;
-    input {
-        &:focus, &:active {
-            outline: none;
-        }
-        position: relative;
-        height: @btn-height;
-    }
-    input[type=email] {
-        color: white;
-        margin: 10px;
-        padding-left: 10px;
-        padding-right: 10px;
-        border: 2px solid white;
-        background-color: transparent;
-        top: 1px;
-        @media @xs {
-            width: 70%;
-        }
-        @media @lg {
-            width: 330px;
+        .btn.active { display: none; }
+        img.logo {
+            position: relative;
+            left: 20px; top: 10px;
         }
     }
-    input[type=submit] {
-        background: url(data:image/gif;base64,R0lGODlhHAAmAIAAAP///////yH5BAEKAAEALAAAAAAcACYAAAIuhI+py+0Po5y02ouz3rz7HnxBCI6luY1qqpJZ62Itt9Kxdn/6zvf+DwwKh0RIAQA7); // Arrow
-        border: none;
-        width: 30px;
-        left: -10px;
-        vertical-align: middle;
+    @media @md { 
+        background-position: 64px; 
+        img.logo { position: static; }
     }
-}
-html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
-    top: -2px;
+    @media @lg { 
+        .btn.active { display: inline; }
+        background-position: 80px; 
+    }
 }
 
 // SPECIFIC PAGE TWEAKS

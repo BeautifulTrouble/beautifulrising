@@ -7,8 +7,10 @@
             <a href="/about/" class="btn">About</a>
             <a href="/news/" class="btn">News</a>
         </div>
-        <div class="btn active">Receive Updates</div>
-        <p>Enter your email to receive project news &amp; updates</p>
-        {% include signup_form.html %}
+        <div id="menu-update" class="btn">Receive Updates</div>
+        <div id="menu-update-content" class="hide">
+            <p>Enter your email to receive project news &amp; updates</p>
+            {% include signup_form.html %}
+        </div>
     </div>
 </div>
