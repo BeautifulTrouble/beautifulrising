@@ -37,6 +37,6 @@ layout: base
     {% endfor %}];
     var choice = backgrounds[Date.now() % backgrounds.length];
     document.body.style.backgroundImage = "url('" + choice['image'] + "')";
-    document.getElementById("photo-credit").innerHTML = "Photograph by " + choice['credit'] + "; &copy;ActionAid. " + choice['description'];
+    document.getElementById("photo-credit").innerHTML = "Photograph by " + choice['credit'] + "; &copy;ActionAid.<br> " + choice['description'];
 </script>
 {% endif %}

@@ -374,17 +374,18 @@ header nav {
         line-height: 1;
         font-size: 14px;
         text-align: right;
-        max-width: 25%;
         position: absolute;
         bottom: 0; right: 0;
         @media @xs {
             text-align: center;
             position: static;
-            max-width: none;
             padding-top: 40px;
             padding-left: 20%;
             padding-right: 20%;
+            br { display: none; }
         }
+        @media @sm { br { display: inline; } }
+        @media @md { br { display: none; } }
     }
 }
 

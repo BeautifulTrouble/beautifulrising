@@ -362,7 +362,6 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
   line-height: 1;
   font-size: 14px;
   text-align: right;
-  max-width: 25%;
   position: absolute;
   bottom: 0;
   right: 0;
@@ -371,10 +370,22 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
   .masthead #photo-credit {
     text-align: center;
     position: static;
-    max-width: none;
     padding-top: 40px;
     padding-left: 20%;
     padding-right: 20%;
+  }
+  .masthead #photo-credit br {
+    display: none;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .masthead #photo-credit br {
+    display: inline;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .masthead #photo-credit br {
+    display: none;
   }
 }
 .page-about .sidebar img {
