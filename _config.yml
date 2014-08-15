@@ -4,11 +4,15 @@ email: beautifulrising.org@gmail.com
 description: "A Global Toolbox for Changemakers"
 baseurl: ""
 url: "http://beautifulrising.org"
+# Site settings (custom)
+image: "/img/br-logo-social.jpg"
+domain: "beautifulrising.org"
+twittername: "BeautRising"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-
+# Build settings (custom)
 #mode: "development"
 mode: "production"
 
