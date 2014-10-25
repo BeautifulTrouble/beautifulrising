@@ -11,7 +11,8 @@ With this short email we just wanted to keep you in the loop as you have asked t
 We are thrilled to announce the first few names of people that will be joining the Beautiful Rising Advisory Network — a group of people that will help guide the project as it develops. The first batch we are presenting here have a particular skillset that will help inform the tech and editorial side of the project.
 
 And here they are! (drum roll please)...
- 
+
+<blockquote>
 **Katharine Ainger** - co-editor of [We Are Everywhere: The irresistible rise of global anti-capitalism](http://www.weareeverywhere.org/) and a former co-editor of New Internationalist. Her work has appeared in The Guardian, The New Statesman, Adbusters, and ZNet. She is interested in the points where creativity, radical democracy and ecological justice intersect.
 
 **Tom Allen** - Global Engagement Manager for [ActionAid International](http://www.actionaid.org/),  digital expert with an in depth knowledge of the third sector. Have worked predominantly in environmental campaigning, international development and human rights issues and have been involved with most of ActionAid's International ICT4D projects so far.
@@ -25,6 +26,8 @@ And here they are! (drum roll please)...
 **Gabi Sobliye** - Gabi holds a Masters in Human Rights from University College London. As a programme coordinator for Tactical Tech works on visual persuasion areas central to our book Visualising Information for Advocacy. She works on a variety of data representation projects and is currently working on a visualisation of housing collapses in Egypt. 
 
 She has an interest in data and design, which, outside of Tactical Tech, she applies to the creation of braided hair wreath displays.
+
+</blockquote>
 
 We are working hard to expand the list with more good and inspiring people, particularly people who have close familiarity with the political issues, forces and dynamics at play in the local context.  
 
