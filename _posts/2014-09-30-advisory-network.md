@@ -22,6 +22,10 @@ And here they are! (drum roll please)...
 
 **Aurelia Moser** - works as a developer and code-cartographer at [Ushahidi](http://www.ushahidi.com/) and [Internews-Kenya](http://internewskenya.org/), and as an advocate for global code curricula, she balances experience in design, development and data-journo departments. She also coordinates Nodebots-NYC meetups and leads the hub-chapter for Girl Develop It, a non-profit that is empowering women of diverse backgrounds from around the world to learn how to develop software.
 
+**Gabi Sobliye** - Gabi holds a Masters in Human Rights from University College London. As a prgramme coordinator Tactical Tech works on visual persuasion areas central to our book Visualising Information for Advocacy. She works on a variety of data representation projects and is currently working on a visualisation of housing collapses in Egypt. 
+
+She has an interest in data and design, which, outside of Tactical Tech, she applies to the creation of braided hair wreath displays.
+
 We are working hard to expand the list with more good and inspiring people, particularly people who have close familiarity with the political issues, forces and dynamics at play in the local context.  
 
 We will stay in touch very soon with more exciting developments and news!
