@@ -307,6 +307,14 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
     left: 20px;
     top: 10px;
   }
+  header nav:after {
+    position: absolute;
+    background-color: black;
+    height: 110px;
+    width: 5000px;
+    margin-left: 100px;
+    content: "";
+  }
 }
 @media only screen and (min-width: 992px) {
   header nav {
@@ -386,6 +394,17 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
 @media only screen and (min-width: 992px) {
   .masthead #photo-credit br {
     display: none;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .sidebar {
+    position: relative;
+  }
+  .page-news .sidebar {
+    top: 10px;
+  }
+  .page-about .sidebar {
+    top: 6.5px;
   }
 }
 .page-about .sidebar img {
