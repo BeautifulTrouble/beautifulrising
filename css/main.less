@@ -331,6 +331,14 @@ header nav {
             position: relative;
             left: 20px; top: 10px;
         }
+        &:after {   // Extend header rightward 5000px
+            position: absolute;
+            background-color: black;
+            height: 110px;
+            width: 5000px;
+            margin-left: 100px;
+            content: "";
+        }
     }
     @media @md { 
         background-position: 64px; 
@@ -388,7 +396,12 @@ header nav {
     }
 }
 
-.page-about .sidebar img {
+@media @sm {
+    .sidebar { position: relative; }
+    .page-news .sidebar { top: 10px; }
+    .page-about .sidebar { top: 6.5px; }
+}
+.page-about .sidebar img{
     margin-top: 10px;
 }
 
