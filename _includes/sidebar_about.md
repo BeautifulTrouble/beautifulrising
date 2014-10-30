@@ -2,7 +2,7 @@
 
 [<img src="/img/aa-logo.png" title="ActionAid">](http://actionaid.org/)
 
-**ActionAid Denmark** is part of ActionAid, an international organization based in Johannesburg that works with over 15 million people in 45 countries for a world free from poverty and injustice.
+**ActionAid** is an international organization based in Johannesburg that works with over 15 million people in 45 countries for a world free from poverty and injustice.
 
 [<img src="/img/bt-logo.png" title="Beautiful Trouble">](http://beautifultrouble.org)
 
