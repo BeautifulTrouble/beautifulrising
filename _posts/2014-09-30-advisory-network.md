@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Announcing the first members of the Beautiful Rising Advisory Network"
+title: Announcing the first members of the Beautiful Rising Advisory Network
 author: Søren Warburg
+published: true
 ---
+
 
 First of all, thanks for your interest in Beautiful Rising — the project is generating a lot of excitement so far and we’ve only just begun!
 
@@ -10,7 +12,7 @@ With this short email we just wanted to keep you in the loop as you have asked t
 
 We are thrilled to announce the first few names of people that will be joining the Beautiful Rising Advisory Network — a group of people that will help guide the project as it develops. The first batch we are presenting here have a particular skillset that will help inform the tech and editorial side of the project.
 
-And here they are! (drum roll please)...
+And here they are! (Drum roll please)...
 
 >**Katharine Ainger** - co-editor of [We Are Everywhere: The irresistible rise of global anti-capitalism](http://www.weareeverywhere.org/) and a former co-editor of New Internationalist. Her work has appeared in The Guardian, The New Statesman, Adbusters, and ZNet. She is interested in the points where creativity, radical democracy and ecological justice intersect.
 
