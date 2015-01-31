@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Announcing Beautiful Rising - A Global Toolbox for Changemakers!"
 image: /assets/announce.jpg
 author: Søren Warburg

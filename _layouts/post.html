@@ -1,29 +1,26 @@
 ---
 layout: base
-title: News
-permalink: /news/
 ---
 {% include header.html %}
 <div class="row">
     <div class="col-xs-12 col-sm-offset-1 col-sm-8">
         <div class="content">
-            {% for post in site.posts %}
-            <div class="post" id="{{ post.title | handleize }}">
-                <h1>{{ post.title }}</h1>
+            <div class="post">
+                <h1>{{ page.title }}</h1>
                 <div class="row">
-                    {% if post.image %}
+                    {% if page.image %}
                     <div class="row">
                         <div class="col-xs-12 visible-xs">
-                            <img src="{{ post.image }}" class="img-responsive">
+                            <img src="{{ page.image }}" class="img-responsive">
                         </div>
                     </div>
                     <div class="col-sm-12 hidden-xs">
-                        <img src="{{ post.image }}" class="img-responsive">
+                        <img src="{{ page.image }}" class="img-responsive">
                     </div>
                     {% endif %}
 
                     <div class="col-xs-12 col-sm-10 post-text">
-                        {{ post.content }}
+                        {{ content }}
                     </div>
 
                     <div class="col-xs-12 col-sm-3 hidden"><!-- TODO: make functional -->
@@ -35,14 +32,23 @@ permalink: /news/
 
                     <div class="col-xs-12">
                         <hr>
-                        {% if post.author %}
-                        <h5 class="inline-block">Posted by {{ post.author }}</h5>
+                        {% if page.author %}
+                        <h5 class="inline-block">Posted by {{ page.author }}</h5>
                         {% endif %}
-                        <h5 class="inline-block right">{{ post.date | date: '%B %d, %Y' }}</h5>
+                        <h5 class="inline-block right">{{ page.date | date: '%B %d, %Y' }}</h5>
+                    </div>
+                    <div class="col-xs-6">
+                        {% if page.next %}
+                        <a href="{{ page.next.url }}">&#8592; {{ page.next.title }}</a>
+                        {% endif %}
+                    </div>
+                    <div class="col-xs-6">
+                        {% if page.previous %}
+                        <a href="{{ page.previous.url }}" class="pull-right">{{ page.previous.title }} &#8594;</a>
+                        {% endif %}
                     </div>
                 </div>
             </div>
-            {% endfor %}
         </div>
     </div>
     <div class="col-xs-12 col-sm-3 hidden-xs">

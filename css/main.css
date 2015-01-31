@@ -98,11 +98,11 @@ body {
   }
 }
 .btn {
-  color: #ffffff;
+  color: white;
   background-color: transparent;
   padding: 8px 18px;
   margin: 8px;
-  border: 2px solid #ffffff;
+  border: 2px solid white;
   border-radius: 0;
   height: 40px;
   text-transform: uppercase;
@@ -113,12 +113,12 @@ body {
   transition: all 0.5s ease;
 }
 .btn:focus {
-  color: #ffffff;
+  color: white;
 }
 .btn:hover,
 .btn.active {
-  background-color: #ffffff;
-  color: #000000;
+  background-color: white;
+  color: black;
   box-shadow: none;
 }
 @media only screen and (max-width: 767px) {
@@ -401,8 +401,6 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
 @media only screen and (min-width: 768px) {
   .sidebar {
     position: relative;
-  }
-  .page-news .sidebar {
     top: 10px;
   }
   .page-about .sidebar {

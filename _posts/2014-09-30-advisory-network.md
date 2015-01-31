@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Announcing the first members of the Beautiful Rising Advisory Network"
 author: Søren Warburg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Call for ideas"
 author: Søren Warburg
 ---
