@@ -1,0 +1,10 @@
+callback([
+  {
+    "text": "About Beautiful Rising",
+    "href": "/about/"
+  } ,
+  {
+    "text": "Beautiful Rising News",
+    "href": "/news/"
+  }
+])
