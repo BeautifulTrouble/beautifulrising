@@ -5,9 +5,10 @@ title: "Beautiful Rising is hiring a part-time writer/researcher in Myanmar"
 author: Søren Warburg
 ---
 
+
 [_Beautiful Rising_](http://beautifulrising.org/), a project of [ActionAid Denmark](http://www.ms.dk/en) & [Beautiful Trouble](http://beautifultrouble.org/), will be a toolkit of creative activism that showcases the innovative tactics & strategies of social movements across the global south.
 
-[_Beautiful Rising_](http://beautifulrising.org/) is looking for one or more Myanmar-based writer/researchers to develop **case studies** for the toolkit, in collaboration with the editorial team. These will be similar to [case studies from _Beautiful Trouble_](http://beautifultrouble.org/case/), but will focus on recent creative activism in Myanmar specifically (for example, the Flower Speech campaign, the “reform is fake” protest, the “no dam” campaign, and others). The goal will be to write up these actions and how they were successful so that activists both in Myanmar and in other countries across the global south can learn from them. 
+[_Beautiful Rising_](http://beautifulrising.org/) is looking for one or more Myanmar-based writer/researchers to develop **case studies** for the toolkit over the next few months, in collaboration with the editorial team. These will be similar to [case studies from _Beautiful Trouble_](http://beautifultrouble.org/case/), but will focus on recent creative activism in Myanmar specifically (for example, the Flower Speech campaign, the “reform is fake” protest, the “no dam” campaign, and others). The goal will be to write up these actions and how they were successful so that activists both in Myanmar and in other countries across the global south can learn from them. 
 
 We encourage interested applicants to read a few case studies from our previous toolkit to get a better understanding of the format. For example: 
 
