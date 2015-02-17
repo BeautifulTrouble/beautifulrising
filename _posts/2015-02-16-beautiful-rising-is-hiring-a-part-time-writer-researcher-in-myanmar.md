@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Beautiful Rising is hiring a part-time writer/researcher in Myanmar"
 author: Søren Warburg
 ---
