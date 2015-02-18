@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: ""
+published: true
+title: Myanmar/Burma workshop and the road ahead
 author: Søren Warburg
 ---
 
