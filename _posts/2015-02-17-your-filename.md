@@ -6,8 +6,8 @@ author: Søren Warburg
 ---
 
 
-
 ![Nadine and Soren in Burma.jpg]({{site.baseurl}}/assets/Nadine and Soren in Burma.jpg)
+
 _Beautiful Rising facilitators Nadine Bloch (left) and Søren Warburg (right) work to document case studies of creative activism in Myanmar/Burma with local activists._
 
 
