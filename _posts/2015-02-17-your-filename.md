@@ -13,7 +13,7 @@ _Beautiful Rising facilitators Nadine Bloch (left) and Søren Warburg (right) wo
 
 Hello again,
 
-In early February, we held a four-day workshop at ActionAid’s Global Platform in Yangon, drawing together 20 frontline activists from across Myanmar/Burma to document their successes and distill their key insights. The workshop was a huge success, providing an important look into the constraints and challenges activists are facing and pulling together a community to give input on the activist toolkit as it develops.
+In late January, we held a four-day workshop at ActionAid’s Global Platform in Yangon, drawing together 20 frontline activists from across Myanmar/Burma to document their successes and distill their key insights. The workshop was a huge success, providing an important look into the constraints and challenges activists are facing and pulling together a community to give input on the activist toolkit as it develops.
 
 Back in North America, we have been working hard to better understand what delivery platforms and content from Beautiful Trouble might resonate for a diverse range of activists in many different regions. To start exploring these questions in a creative way, our design team at The Public Society developed an offline card game for use during the in-country workshops. After rapidly developing numerous versions of the game, testing it with activists in New York, and sharing it with our advisory network, a beta version was sent to Myanmar/Burma just hours before the gathering got underway. You can see [the card resources in development here](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/tree/master/card-game).
 
