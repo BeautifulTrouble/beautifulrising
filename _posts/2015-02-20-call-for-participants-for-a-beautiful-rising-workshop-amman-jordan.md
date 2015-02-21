@@ -5,9 +5,6 @@ title: "Call for participants for a Beautiful Rising workshop (Amman, Jordan)"
 author: Theis Dencker
 ---
 
-
-
-
 Do you want to be part of the Beautiful Rising project? Do you want to join an international network of great social movements and share your own experiences with creative activism? **Then join us at a 4 day workshop April 12th – 15th 2015 in Amman, Jordan.**
 
 We’re looking for **experienced activists based in Syria, Lebanon, Palestine, Egypt, Tunisia, or Jordan**. Please apply through [this form](https://docs.google.com/forms/d/17CEBssHungLATb6sVzjbV1bm1ZZbIV4dffHF_BiUyZM/viewform?c=0&w=1) or share in your network before the deadline for application on **March 4th 2015**.
@@ -50,9 +47,9 @@ Accommodation, food and refreshments during the days of the workshop are covered
 
 Thank you for your interest.
 
-Your sincerely,
-on behalf of the Beautiful Rising team
-Theis Dencker
+Your sincerely,<br />
+on behalf of the Beautiful Rising team<br />
+Theis Dencker<br />
 ActionAid Denmark
 
 P.S. If you're ready to apply, [the form is right here!](https://docs.google.com/forms/d/17CEBssHungLATb6sVzjbV1bm1ZZbIV4dffHF_BiUyZM/viewform?c=0&w=1)
