@@ -7,6 +7,7 @@ author: Theis Dencker
 
 
 
+
 Do you want to be part of the Beautiful Rising project? Do you want to join an international network of great social movements and share your own experiences with creative activism? **Then join us at a 4 day workshop April 12th – 15th 2015 in Amman, Jordan.**
 
 We’re looking for **experienced activists based in Syria, Lebanon, Palestine, Egypt, Tunisia, or Jordan**. Please apply through [this form](https://docs.google.com/forms/d/17CEBssHungLATb6sVzjbV1bm1ZZbIV4dffHF_BiUyZM/viewform?c=0&w=1) or share in your network before the deadline for application on **March 4th 2015**.
@@ -41,7 +42,7 @@ As such the workshop is not your ordinary training but a space where activists f
 
 The Beautiful Rising project seeks to form new kinds of partnerships with organizations, social movements and activist groups with the aim of creating a web-based knowledge platform on creative activism. This project seeks to strengthen the partners’ capacity and creativity in campaigning, public mobilization, advocacy and non-violent activism in the MENA region and 4 countries in Asia and Africa.
 
-The project is co-founded by ActionAid Denmark and Beautiful Trouble. You can learn more about the project and the partners here.
+The project is co-founded by ActionAid Denmark and Beautiful Trouble. You can learn more about the project and the partners [here](http://beautifulrising.org/about/).
 
 ### Costs covered
 
