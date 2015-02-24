@@ -14,4 +14,4 @@ Coming Soon
 <br>
 <br>
 
-_For more information, contact project manager Søren Warburg at swa (at) ms.dk or tweet [@sorenwar](http://twitter.com/sorenwar)._
+_For more information, contact project manager Theis Dencker at tsd (at) ms.dk
