@@ -14,4 +14,4 @@ Coming Soon
 <br>
 <br>
 
-_For more information, contact project manager Theis Dencker at tsd (at) ms.dk
+_For more information, contact project manager Theis Dencker at tsd (at) ms.dk_
