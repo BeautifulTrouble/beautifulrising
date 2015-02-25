@@ -19,4 +19,4 @@ The successful applicant will have a strong interest in social movements in Myan
 
 This position pays an honorarium of USD$100 for each case study.
 
-Please apply by **Wednesday February 27**.
+Please apply by **Wednesday March 4**.
