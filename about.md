@@ -9,3 +9,35 @@ sidebar: 'sidebar_about.md'
 
 ##The project was initiated in 2014 by [ActionAid Denmark](http://ms.dk/en/) in collaboration with [Beautiful Trouble](http://beautifultrouble.org/), and is funded by the Danish International Development Agency ([DANIDA](http://um.dk/en/danida-en/)) under the heading "Innovative Partnerships."
 
+<br/>
+
+---
+
+<br/>
+
+###About the Advisory Network:
+
+The Beautiful Rising Advisory Network gathers together people with a variety of skill-sets and working contexts to act as a hub of expertise informing project decisions. Our current members are:
+
+<br/>
+
+>**Nisreen Haj Ahmad** - co-founder of [Ahel](http://www.ahel.org) & [Mujtama3i](http://www.mujtama3i.org) and a board member of [Leading Change Network](http://www.leadingchangenetwork.org). Over the past five years, she has been leading or coaching campaigns for human rights in Palestine, Jordan, Lebanon and Syria. She studied law at the University of Edinburgh in 1997 after which she was a legal advisor to the Palestinian negotiating team. Then studied community organising with Marshall Ganz at the Harvard Kennedy School in 2007.
+
+>**Katharine Ainger** - co-editor of [We Are Everywhere: The irresistible rise of global anti-capitalism](http://www.weareeverywhere.org/) and a former co-editor of New Internationalist. Her work has appeared in The Guardian, The New Statesman, Adbusters, and ZNet. She is interested in the points where creativity, radical democracy and ecological justice intersect.
+
+>**Tom Allen** - Global Engagement Manager for [ActionAid International](http://www.actionaid.org/),  digital expert with an in depth knowledge of the third sector. Have worked predominantly in environmental campaigning, international development and human rights issues and have been involved with most of ActionAid's International ICT4D projects so far.
+
+>**Laura Walker Hudson** - Chief Executive Officer for [Social Impact Lab](http://simlab.org/) (makers of [FrontlineSMS](http://www.frontlinesms.com/), award-winning open-source software used in over 135 countries), and Advisory Board Member at SpaceUnited - she has supported people and organizations around the world to use inclusive technologies to make systems and services more accessible, responsive, and resilient.
+
+>**Philemon Matsotso Jazi** - Head of Programmes and Policy for [ActionAid Zimbabwe](http://www.actionaid.org/zimbabwe). He is a development practitioner with extensive experience in supporting capacity development of Civil  Society including  Social movements in programmes focusing on the Civil, political and socio-economic rights of youth and women, Governance and accountability and Participatory democracy. His main interest is in enhancing the role of civil society and social movements in sustainable development and democracy.
+
+>**Anna Levy** - Governance Project Director for [Social Impact Lab](http://simlab.org/) (makers of FrontlineSMS, award-winning open-source software used in over 135 countries) where she is managing programs, projects, and partnerships in relation to transparency and accountability in public services and foreign assistance/international development programs, inclusive policy making, and digital infrastructure for social services.
+
+>**Aurelia Moser** - works as a developer and code-cartographer at [Ushahidi](http://www.ushahidi.com/) and [Internews-Kenya](http://internewskenya.org/), and as an advocate for global code curricula, she balances experience in design, development and data-journo departments. She also coordinates Nodebots-NYC meetups and leads the hub-chapter for Girl Develop It, a non-profit that is empowering women of diverse backgrounds from around the world to learn how to develop software.
+
+>**Gabi Sobliye** - Gabi holds a Masters in Human Rights from University College London. As a programme coordinator for Tactical Tech works on visual persuasion areas central to our book Visualising Information for Advocacy. She works on a variety of data representation projects and is currently working on a visualisation of housing collapses in Egypt. She has an interest in data and design, which, outside of Tactical Tech, she applies to the creation of braided hair wreath displays.
+
+>**Phil Wilmot** - After working with several nonprofits and activist groups internationally, Phil married into Uganda and now oversees strategy and operations at [Solidarity Uganda](http://solidarityuganda.org). As a consultant-trainer, he has trained many communities in nonviolent action, including those trying to protect land and natural resources, end corruption, and fight unemployment.
+
+>**Suzan Abong Wilmot** - Originally from Lango sub-region in Uganda, she is an internationally-trained social change trainer, recycled jewelry artisan, and Director of [Solidarity Uganda](http://solidarityuganda.org). She is interested in transforming the professionalistic nonprofit culture of Uganda into one that works more seriously on the ground and generates real results.
+

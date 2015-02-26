@@ -98,11 +98,11 @@ body {
   }
 }
 .btn {
-  color: white;
+  color: #ffffff;
   background-color: transparent;
   padding: 8px 18px;
   margin: 8px;
-  border: 2px solid white;
+  border: 2px solid #ffffff;
   border-radius: 0;
   height: 40px;
   text-transform: uppercase;
@@ -113,12 +113,12 @@ body {
   transition: all 0.5s ease;
 }
 .btn:focus {
-  color: white;
+  color: #ffffff;
 }
 .btn:hover,
 .btn.active {
-  background-color: white;
-  color: black;
+  background-color: #ffffff;
+  color: #000000;
   box-shadow: none;
 }
 @media only screen and (max-width: 767px) {

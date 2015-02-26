@@ -8,10 +8,6 @@
 
 **Beautiful Trouble** is a [book](http://beautifultrouble.org/the-book/), [web toolbox](http://beautifultrouble.org), and international network of artist-activist [trainers](http://beautifultrouble.org/trainings) whose mission is to make grassroots movements more creative and more effective.
 
-###**About the Advisory Network:**
-
-Coming Soon
-<br>
 <br>
 
 _For more information, contact project manager Theis Dencker at tsd (at) ms.dk_
