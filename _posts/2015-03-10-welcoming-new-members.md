@@ -1,10 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: Welcoming new members
 author: Mara Ranville
 date: "2015-03-10"
 ---
+
 
 Hello again from the team at Beautiful Rising,
 
