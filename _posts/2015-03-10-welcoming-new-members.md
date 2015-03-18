@@ -8,6 +8,7 @@ date: "2015-03-10"
 
 
 
+
 Hello again from the team at Beautiful Rising,
 
 We've had a busy winter, and wanted to share our successes with you. Most importantly, we held our first in-country session in Myanmar/Burma, in late January, 2015. You can read more about it, and where we're going next, [here](http://beautifulrising.org/2015/02/17/17-myanmar/).
@@ -21,7 +22,7 @@ January also brought a new member to our team: Theis Dencker. Theis will be cont
 
 We also have some new additions to the Beautiful Rising Advisory Network to announce. Joining our existing advisory network members -- Katharine Ainger, Tom Allen, Laura Walker Hudson, Anna Levy, and Aurelia Moser -- are:
 
-Nisreen Haj Ahmad is the co-founder of Ahel & Mujtama3i and a board member of Leading Change Network. Over the past five years, she has been leading or coaching campaigns for human rights in Palestine, Jordan, Lebanon and Syria. She studied law at the University of Edinburgh in 1997 after which she was a legal advisor to the Palestinian negotiating team. She also studied community organising with Marshall Ganz at the Harvard Kennedy School in 2007.
+**Nisreen Haj Ahmad** is the co-founder of Ahel & Mujtama3i and a board member of Leading Change Network. Over the past five years, she has been leading or coaching campaigns for human rights in Palestine, Jordan, Lebanon and Syria. She studied law at the University of Edinburgh in 1997 after which she was a legal advisor to the Palestinian negotiating team. She also studied community organising with Marshall Ganz at the Harvard Kennedy School in 2007.
 
 Suzan Abong Wilmot is a mother, a neighbor, and a friend. Originally from the Lango sub-region in Uganda, she is an internationally trained social change organizer, recycled jewelry artisan, and Director of Solidarity Uganda. She is interested in transforming the professionalistic nonprofit culture of Uganda into one that works more seriously on the ground and generates real results.
 
