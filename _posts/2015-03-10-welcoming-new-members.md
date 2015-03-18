@@ -7,6 +7,7 @@ date: "2015-03-10"
 ---
 
 
+
 Hello again from the team at Beautiful Rising,
 
 We've had a busy winter, and wanted to share our successes with you. Most importantly, we held our first in-country session in Myanmar/Burma, in late January, 2015. You can read more about it, and where we're going next, [here](http://beautifulrising.org/2015/02/17/17-myanmar/).
@@ -30,4 +31,4 @@ Philemon Matsotso Jazi is the Head of Programmes and Policy for ActionAid Zimbab
 
 Thanks for reading. As always, we’re @BeautRising on Twitter and Beautiful Rising on Facebook and we hope you’ll keep us updated on your work too!
 
- -- The Beautiful Rising Team
+ --The Beautiful Rising Team
