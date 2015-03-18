@@ -31,4 +31,4 @@ Philemon Matsotso Jazi is the Head of Programmes and Policy for ActionAid Zimbab
 
 Thanks for reading. As always, we’re @BeautRising on Twitter and Beautiful Rising on Facebook and we hope you’ll keep us updated on your work too!
 
- --The Beautiful Rising Team
+ -- The Beautiful Rising Team
