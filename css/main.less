@@ -154,6 +154,9 @@ body {
         color: @btn-color-inverse;
         box-shadow: none;
     }
+    &.active {
+        border: 1px solid @btn-color;
+    }
 }
 
 h1 {
@@ -187,7 +190,7 @@ form#mc-embedded-subscribe-form {
     .__placeholder() {
         color: white; 
         font-style: italic;
-        font-size: 14px;
+        font-size: 13px;
         @media @xs {
             color: transparent;
         }
@@ -230,10 +233,10 @@ form#mc-embedded-subscribe-form {
         }
         @media @sm {
             display: inline-block;
-            width: 300px;
+            width: 275px;
         }
         @media @lg {
-            width: 330px;
+            width: 300px;
         }
     }
     input[type=submit] {
