@@ -410,36 +410,30 @@ html.lt-ie9 form#mc-embedded-subscribe-form input[type=email] {
 .page-about .sidebar img {
   margin-top: 10px;
 }
-.social-icon {
-  display: inline-block;
-  position: relative;
-  color: white;
-  background: #78765b;
-  width: 36px;
-  height: 36px;
-  overflow: hidden;
-  border-radius: 5px;
+img.social-icon {
   margin-right: 10px;
   margin-bottom: 10px;
 }
-.social-icon i {
-  position: absolute;
+/*
+.social-icon {
+    display: inline-block;
+    position: relative;
+    color: white;
+    background: @text-color;
+    width: 36px;
+    height: 36px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    i {
+        position: absolute;
+        &.fa-facebook { font-size: 31px; left: 11px; top: 8px; }
+        &.fa-twitter { font-size: 26px; left: 6px; top: 5px; }
+        &.fa-google-plus { font-size: 46px; left: -4px; top: -4px; }
+    }
 }
-.social-icon i.fa-facebook {
-  font-size: 31px;
-  left: 11px;
-  top: 8px;
-}
-.social-icon i.fa-twitter {
-  font-size: 26px;
-  left: 6px;
-  top: 5px;
-}
-.social-icon i.fa-google-plus {
-  font-size: 46px;
-  left: -4px;
-  top: -4px;
-}
+*/
 .semi-trans {
   -webkit-transition: opacity 0.5s ease;
   transition: opacity 0.5s ease;
