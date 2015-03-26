@@ -215,11 +215,6 @@ form#mc-embedded-subscribe-form input[type=email] {
     width: 275px;
   }
 }
-@media only screen and (min-width: 1200px) {
-  form#mc-embedded-subscribe-form input[type=email] {
-    width: 300px;
-  }
-}
 form#mc-embedded-subscribe-form input[type=submit] {
   background: url(data:image/gif;base64,R0lGODlhHAAmAIAAAP///////yH5BAEKAAEALAAAAAAcACYAAAIuhI+py+0Po5y02ouz3rz7HnxBCI6luY1qqpJZ62Itt9Kxdn/6zvf+DwwKh0RIAQA7);
   background-repeat: none;
