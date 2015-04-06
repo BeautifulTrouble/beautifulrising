@@ -16,4 +16,4 @@ author: Søren Warburg
 
 Getting lost, asking for help, and navigating through a maze of classrooms is a constant activity here at the World Social Forum in Tunis. Despite over 88 pages of workshop listings and information, the Forum guide has no map to the University of Tunis El Manar campus. My frequent bouts of frustration at not being able to find sessions seem to always be interrupted by the presence of one of the friendly students offering to take me wherever I need to go. And that beats following GPS on my cell phone and tripping over the sidewalk on the way. 
 
-Perhaps this is an ample metaphor for the state of many social movements: [Read more...](http://www.telesurtv.net/english/opinion/Mapping-Creative-Social-Change-at-the-World-Social-Forum-20150330-0007.html)
+Perhaps this is an ample metaphor for the state of many social movements: <a href="http://www.telesurtv.net/english/opinion/Mapping-Creative-Social-Change-at-the-World-Social-Forum-20150330-0007.html" target="_blank">(read full article...)</a>
