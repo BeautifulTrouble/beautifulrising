@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Beautiful Rising at the World Social Forum, 2015"
 author: Søren Warburg
 ---
