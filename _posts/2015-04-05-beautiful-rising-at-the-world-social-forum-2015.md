@@ -6,7 +6,7 @@ author: Søren Warburg
 ---
 
 
-![Participants at the World Social Forum hold Palestinian flags during a march at the end of the 2015 World Social Forum (WSF) in solidarity with Palestinians, in Tunis, March 28, 2015. | Photo: Reuters]({{site.baseurl}}/assets/2015-03-28_wsf.jpg)
+<img src="{{site.baseurl}}/assets/2015-03-28_wsf.jpg" title="Participants at the World Social Forum hold Palestinian flags during a march at the end of the 2015 World Social Forum (WSF) in solidarity with Palestinians, in Tunis, March 28, 2015. | Photo: Reuters">
 
 ##Participants shared experiences of how to creatively organize for social justice and equality at the 2015 World Social Forum in Tunis. 
 
