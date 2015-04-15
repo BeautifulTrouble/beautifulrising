@@ -3,7 +3,9 @@ layout: post
 published: true
 title: "Beautiful Rising at the World Social Forum, 2015"
 author: Søren Warburg
+date: "2015-03-30"
 ---
+
 
 
 <img src="{{site.baseurl}}/assets/2015-03-28_wsf.jpg" title="Participants at the World Social Forum hold Palestinian flags during a march at the end of the 2015 World Social Forum (WSF) in solidarity with Palestinians, in Tunis, March 28, 2015. | Photo: Reuters">
