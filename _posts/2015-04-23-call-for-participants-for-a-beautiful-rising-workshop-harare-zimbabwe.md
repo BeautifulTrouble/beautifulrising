@@ -35,7 +35,6 @@ across Africa, Asia and the Middle East.
 
 The project is co-founded by ActionAid Denmark and Beautiful Trouble. You can learn more about the project and the partners [here](https://beautifulrising.org/about/).
 
-
 ## Costs covered
 Food and refreshments during the days of the workshop are covered for all participants and those travelling from outside of Harare will have their accommodation and travel expenses covered.
 
