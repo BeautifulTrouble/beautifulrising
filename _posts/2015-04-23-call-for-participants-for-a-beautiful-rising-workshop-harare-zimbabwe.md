@@ -17,14 +17,12 @@ We are calling for seasoned activists who ideally have:
 ­ 	experience as social movement educators, trainers, analysts, theorists, commentators, or communications campaigners;
 ­ 	an interest in helping to articulate the principles and best practices of effective activism and organizing.
 
-
 ## The workshop
 At the workshop you can expect to be:
 ­ 	Working and creative brainstorming on best practices, tactics, and approaches used in social activism;
 ­ 	Using a substantial part of the time in writing sessions transforming specific stories into cases useful in other countries;
 ­ 	Networking with activists from across the country;
 ­ 	Receiving some optional/additional training in strategic planning, networking, or creative action planning.
-
 
 ## You’re in charge
 By attending the workshop and joining this innovative network, participants will gain a deeper understanding of tactics, principles, and theories of activism through co­developing online modules for the Beautiful Rising project and toolkit.
