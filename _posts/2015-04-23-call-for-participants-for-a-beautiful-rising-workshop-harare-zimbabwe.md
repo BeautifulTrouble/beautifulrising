@@ -11,11 +11,11 @@ Do you want to be part of the Beautiful Rising project? Do you want to join an i
 **We’re looking for experienced activists from across Zimbabwe.** Please apply through [this form](https://docs.google.com/forms/d/1wKPLvk5nBulW5FLhv4wYwNR9eRfQuR59Pc4dN9qi43c/viewform) or share in your network before the **application deadline of May 10, 2015.**
 
 We are calling for seasoned activists who ideally have:
-­ 	extensive experience with mobilising and organising communities in creative campaigns;
-­ 	an interest in writing/documenting successful action stories and tactics (you are expected to contribute writing during the workshop and afterwards);
-­ 	extensive knowledge of social movements in your country and/or the region, and the specific successes and challenges of these movements in driving social change;
-­ 	experience as social movement educators, trainers, analysts, theorists, commentators, or communications campaigners;
-­ 	an interest in helping to articulate the principles and best practices of effective activism and organizing.
+- extensive experience with mobilising and organising communities in creative campaigns;
+- item
+- item
+
+
 
 ## The workshop
 At the workshop you can expect to be:
