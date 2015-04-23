@@ -49,8 +49,7 @@ on behalf of the Beautiful Rising team
 Theis Dencker
 ActionAid Denmark, tsd@ms.dk
 
-
-Link to the application form:
+If you're ready to apply, here's the link to the application form:
 https://docs.google.com/forms/d/1wKPLvk5nBulW5FLhv4wYwNR9eRfQuR59Pc4dN9qi43c/viewform
 
 
