@@ -21,18 +21,6 @@ We are calling for seasoned activists who ideally have:
 
 ## The workshop
 At the workshop you can expect to be:
-- Working and creatively brainstorming on best practices, tactics, and approaches used in social activism;
-- item
-- item
-
-
-- Working and creatively 
-- item
-- item
-
-Working and creative brainstorming on best practices, tactics, and approaches used in social activism across the MENA region;
-- Participating in writing sessions transforming specific stories into cases useful in other countries;
-- Receiving some optional/additional training in strategic planning, networking, creative action planning;
 
 - Working and creatively brainstorming on best practices, tactics, and approaches used in social activism;
 - Using a substantial part of the time in writing sessions transforming specific stories into cases useful in other countries;
