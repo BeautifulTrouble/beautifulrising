@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Call for participants for a Beautiful Rising workshop (Harare, Zimbabwe)"
 author: Søren Warburg
 ---
