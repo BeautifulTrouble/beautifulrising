@@ -12,17 +12,17 @@ Do you want to be part of the Beautiful Rising project? Do you want to join an i
 
 We are calling for seasoned activists who ideally have:
 - extensive experience with mobilising and organising communities in creative campaigns;
-- item
-- item
-
-
+- an interest for writing/documenting successful action stories and tactics used (you are expected to contribute to this during the workshop and afterwards);
+- extensive knowledge of social movements in the your country and/or the region, and the specific successes and challenges of these movements in driving social change;
+- experience as social movement educators, trainers, analysts, theorists, commentators, or communications campaigners;
+- an interest in helping to articulate the principles and best practices of effective activism and organizing.
 
 ## The workshop
 At the workshop you can expect to be:
-­ 	Working and creative brainstorming on best practices, tactics, and approaches used in social activism;
-­ 	Using a substantial part of the time in writing sessions transforming specific stories into cases useful in other countries;
-­ 	Networking with activists from across the country;
-­ 	Receiving some optional/additional training in strategic planning, networking, or creative action planning.
+- Working and creatively brainstorming on best practices, tactics, and approaches used in social activism;
+- Using a substantial part of the time in writing sessions transforming specific stories into cases useful in other countries;
+- Networking with activists from across the country;
+- Receiving some optional/additional training in strategic planning, networking, or creative action planning.
 
 ## You’re in charge
 By attending the workshop and joining this innovative network, participants will gain a deeper understanding of tactics, principles, and theories of activism through co­developing online modules for the Beautiful Rising project and toolkit.
