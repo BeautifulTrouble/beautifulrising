@@ -1,9 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 title: "Call for participants for a Beautiful Rising workshop (Harare, Zimbabwe)"
 author: Søren Warburg
 ---
+
 
 
 Do you want to be part of the Beautiful Rising project? Do you want to join an international network of great social movements and share your own experiences with creative activism? Then join us at a 4-day workshop June 2-5, 2015 in Harare, Zimbabwe.
@@ -48,5 +49,3 @@ ActionAid Denmark, tsd@ms.dk
 
 If you're ready to apply, here's the link to the application form:
 https://docs.google.com/forms/d/1wKPLvk5nBulW5FLhv4wYwNR9eRfQuR59Pc4dN9qi43c/viewform
-
-
