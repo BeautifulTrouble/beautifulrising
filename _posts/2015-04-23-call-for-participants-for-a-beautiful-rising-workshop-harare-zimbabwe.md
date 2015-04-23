@@ -13,6 +13,11 @@ Do you want to be part of the Beautiful Rising project? Do you want to join an i
 
 We are calling for seasoned activists who ideally have:
 - extensive experience with mobilising and organising communities in creative campaigns;
+- item
+- item
+
+
+- extensive experience with mobilising and organising communities in creative campaigns;
 - an interest for writing/documenting successful action stories and tactics used (you are expected to contribute to this during the workshop and afterwards);
 - extensive knowledge of social movements in the your country and/or the region, and the specific successes and challenges of these movements in driving social change;
 - experience as social movement educators, trainers, analysts, theorists, commentators, or communications campaigners;
