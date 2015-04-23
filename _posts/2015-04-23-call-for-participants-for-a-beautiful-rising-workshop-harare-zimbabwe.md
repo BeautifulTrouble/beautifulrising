@@ -32,7 +32,7 @@ By attending the workshop and joining this innovative network, participants will
 
 As such, the workshop is not a training but a space where activists from diverse backgrounds can work together to identify, articulate, and disseminate their practices. It is a chance for participants to run the show – to create content that will be useful for social movements locally, regionally, and globally.
  
-## Beautiful Rising ­ a new and innovative project
+## Beautiful Rising - a new and innovative project
 The Beautiful Rising project seeks to form new kinds of partnerships with organizations, social movements and activist groups with the aim of creating a web-based knowledge platform on creative activism. This project seeks to strengthen the partners’ capacity and creativity in campaigning, public mobilization, advocacy and nonviolent activism in diverse contexts
 across Africa, Asia and the Middle East.
 
