@@ -7,6 +7,7 @@ author: Søren Warburg
 
 
 
+
 Do you want to be part of the Beautiful Rising project? Do you want to join an international network of great social movements and share your own experiences with creative activism? Then join us at a 4-day workshop June 2-5, 2015 in Harare, Zimbabwe.
 
 **We’re looking for experienced activists from across Zimbabwe.** Please apply through [this form](https://docs.google.com/forms/d/1wKPLvk5nBulW5FLhv4wYwNR9eRfQuR59Pc4dN9qi43c/viewform) or share in your network before the **application deadline of May 10.**
@@ -46,8 +47,8 @@ Thank you for your interest.
 Yours sincerely,
 on behalf of the Beautiful Rising team
 
-Theis Dencker
-ActionAid Denmark, tsd@ms.dk
+Søren Warburg
+ActionAid Denmark, swa(at)ms.dk
 
 If you're ready to apply, here's the link to the application form:
 https://docs.google.com/forms/d/1wKPLvk5nBulW5FLhv4wYwNR9eRfQuR59Pc4dN9qi43c/viewform
