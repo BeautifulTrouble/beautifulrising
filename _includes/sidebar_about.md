@@ -10,7 +10,7 @@
 
 <br>
 
-_For more information, contact project manager Theis Dencker at tsd (at) ms.dk_
+_For more information, contact project manager Søren Warburg at swa(at)ms.dk_
 
 [<img src="/img/twit.png" class="social-icon" title="Connect with us on Twitter">](https://twitter.com/beautrising)
 [<img src="/img/fb.png" class="social-icon" title="Connect with us on Facebook">](https://facebook.com/beautifulrising)
