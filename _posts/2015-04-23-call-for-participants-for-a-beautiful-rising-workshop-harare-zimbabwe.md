@@ -8,7 +8,7 @@ author: Søren Warburg
 
 
 
-Do you want to be part of the Beautiful Rising project? Do you want to join an international network of great social movements and share your own experiences with creative activism? Then join us at a 4-day workshop June 2-5, 2015 in Harare, Zimbabwe.
+Do you want to join an international network of movement leaders  and share your organizing experiences with creative activism? Are you interested in documenting your success stories and contributing writing and ideas to a global online toolbox for change makers? If so, we hope you'll join us at a 4-day workshop June 2-5, 2015 in Harare, Zimbabwe.
 
 **We’re looking for experienced activists from across Zimbabwe.** Please apply through [this form](https://docs.google.com/forms/d/1wKPLvk5nBulW5FLhv4wYwNR9eRfQuR59Pc4dN9qi43c/viewform) or share in your network before the **application deadline of May 10.**
 
@@ -24,11 +24,11 @@ We are calling for seasoned activists who ideally have:
 At the workshop you can expect to be:
 
 - Working and creatively brainstorming on best practices, tactics, and approaches used in social activism;
-- Using a substantial part of the time in writing sessions transforming specific stories into cases useful in other countries;
+- Using a substantial part of the time in writing sessions transforming specific stories into cases useful in other countries for the Beautiful Rising public toolbox;
 - Networking with activists from across the country;
 - Receiving some optional/additional training in strategic planning, networking, or creative action planning.
 
-## You’re in charge
+## A convening not a training
 By attending the workshop and joining this innovative network, participants will gain a deeper understanding of tactics, principles, and theories of activism through co­developing online modules for the Beautiful Rising project and toolkit.
 
 As such, the workshop is not a training but a space where activists from diverse backgrounds can work together to identify, articulate, and disseminate their practices. It is a chance for participants to run the show – to create content that will be useful for social movements locally, regionally, and globally.
