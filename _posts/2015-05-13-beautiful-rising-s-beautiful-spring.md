@@ -25,7 +25,7 @@ From discussions of political contexts in the Arab region to highlighting challe
 
 We were inspired to see a coordinator of the Palestinian-led Boycott, Divestment and Sanctions movement and an organizer with the global climate justice movement to divest from fossil fuels pair up to write a piece on divestment, and discover common principles and different challenges. “This is the magic of working across silos,” said Rae Abileah, “and distilling out best practices from our lived experience.”
 
-Read more about the Amman workshop in this blog post[https://beautifulrising.org/2015/05/13/troublemaker-s-workshop-in-amman/](https://beautifulrising.org/2015/05/13/troublemaker-s-workshop-in-amman/) by Tunisian participant Zyna Mejri.
+[Read more](https://beautifulrising.org/2015/05/13/troublemaker-s-workshop-in-amman/) about the Amman workshop in this blog post by Tunisian participant Zyna Mejri.
 
 ## Istanbul
 
