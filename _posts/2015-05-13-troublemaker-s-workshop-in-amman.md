@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Troublemaker’s workshop in Amman
-author: Søren Warburg
+author: Zyna Mejri
 ---
 
 “If you don’t like the news ...GO OUT and make some of your own!” 
