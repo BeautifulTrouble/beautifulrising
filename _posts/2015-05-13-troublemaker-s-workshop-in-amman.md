@@ -3,7 +3,9 @@ layout: post
 published: true
 title: Troublemaker’s workshop in Amman
 author: Zyna Mejri
+date: "2015-05-12"
 ---
+
 
 “If you don’t like the news ...GO OUT and make some of your own!”
 
