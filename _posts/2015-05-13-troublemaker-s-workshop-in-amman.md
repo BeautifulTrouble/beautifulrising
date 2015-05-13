@@ -5,11 +5,9 @@ title: Troublemaker’s workshop in Amman
 author: Zyna Mejri
 ---
 
-
 “If you don’t like the news ...GO OUT and make some of your own!”
 
 --Wes “Scoop” Nisker
-
 
 As part of the [Beautiful Rising](https://beautifulrising.org/) project, a workshop was held at the ActionAid Global Platform in Amman from 12 to 15 April, 2015. The workshop brought together 15 activists whose work is based in six Arab countries (Lebanon, Palestine, Egypt, Tunisia, Syria and Jordan) to reflect on and document their work together, share their own experiences with creative activism, and join an international network of rising social movements.
 
