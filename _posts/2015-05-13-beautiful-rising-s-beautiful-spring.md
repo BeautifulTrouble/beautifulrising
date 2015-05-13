@@ -6,6 +6,7 @@ author: Søren Warburg
 ---
 
 ![Amman workshop ideas cropped Safa' Al Jayoussi.jpg]({{site.baseurl}}/assets/Amman workshop ideas cropped Safa' Al Jayoussi.jpg)
+![Photo by Safa' Al Jayoussi]
 
 Beautiful Rising has had a very busy spring. We held a workshop at the World Social Forum in Tunisia, convened troublemakers from six countries throughout the Arab world in Amman, and met with Syrian and Turkish creative activists in Istanbul. We've heard success stories, and been thrilled to discover new tactics and ideas for effective organizing in diverse and challenging circumstances. Read on for highlights… 
 
