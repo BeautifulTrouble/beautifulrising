@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Beautiful Rising’s beautiful spring
 author: Søren Warburg
 ---
