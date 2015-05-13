@@ -10,6 +10,7 @@ author: Zyna Mejri
 
 --Wes “Scoop” Nisker
 
+
 As part of the [Beautiful Rising](https://beautifulrising.org/) project, a workshop was held at the ActionAid Global Platform in Amman from 12 to 15 April, 2015. The workshop brought together 15 activists whose work is based in six Arab countries (Lebanon, Palestine, Egypt, Tunisia, Syria and Jordan) to reflect on and document their work together, share their own experiences with creative activism, and join an international network of rising social movements.
 
 The workshop provided participants with new in-depth technical knowledge, tactical and strategic insights, and networks of information-sharing and mutual support that will empower them in their coming day-to-day work. It also included writing sessions in which participants helped transform their success stories into cases useful in other countries. There was also training in strategic campaigning, networking, creative action planning and brainstorming on best practices, tactics, and approaches used in social activism across the Middle-East/North Africa region. 
