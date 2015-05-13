@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Beautiful Rising’s beautiful spring
-author: Søren Warburg
+author: Mara Ranville
 ---
 
 ![Amman workshop ideas cropped Safa' Al Jayoussi.jpg]({{site.baseurl}}/assets/Amman workshop ideas cropped Safa' Al Jayoussi.jpg)
