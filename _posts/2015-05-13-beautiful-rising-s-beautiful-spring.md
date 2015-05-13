@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Beautiful Rising’s beautiful spring
 author: Mara Ranville
+date: "2015-05-13"
 ---
 
 ![Amman workshop ideas cropped Safa' Al Jayoussi.jpg]({{site.baseurl}}/assets/Amman workshop ideas cropped Safa' Al Jayoussi.jpg)
