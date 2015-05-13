@@ -23,9 +23,9 @@ With co-facilitators Nisreen Haj Ahmad, Rae Abileah, Theis Dencker, Andrew Boyd,
 
 From discussions of political contexts in the Arab region to highlighting challenges of organizing under current regimes and successes from specific campaigns, each participant identified a story that they then began to write — starting a future contribution for the Beautiful Rising toolbox. These included new strategies ("Divestment"), tactics ("Currency hacking" and "Radical travel"), principles ("Maintain momentum" and "Personalize and polarize"), theories (De-colonizing NGO funding"), and case studies ("Stolen Gas Campaign", "Birthright Un/Re-plugged", and “Highway Dummies").
 
-We were inspired to see a coordinator of the Palestinian-led Boycott, Divestment and Sanctions movement and an organizer with the global climate justice movement to divest from fossil fuels pair up to write a piece on Divestment, and discover common principles and different challenges. “This is the magic of working across silos,” said Rae Abileah, “and distilling out best practices from our lived experience.”
+We were inspired to see a coordinator of the Palestinian-led Boycott, Divestment and Sanctions movement and an organizer with the global climate justice movement to divest from fossil fuels pair up to write a piece on divestment, and discover common principles and different challenges. “This is the magic of working across silos,” said Rae Abileah, “and distilling out best practices from our lived experience.”
 
-Read more about the Amman workshop in this blog post (LINK) by Tunisian participant Zyna Mejri.
+Read more about the Amman workshop in this blog post[https://beautifulrising.org/2015/05/13/troublemaker-s-workshop-in-amman/](https://beautifulrising.org/2015/05/13/troublemaker-s-workshop-in-amman/) by Tunisian participant Zyna Mejri.
 
 ## Istanbul
 
