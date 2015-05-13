@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Troublemaker’s workshop in Amman
 author: Zyna Mejri
 ---
