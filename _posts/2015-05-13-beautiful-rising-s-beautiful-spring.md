@@ -40,6 +40,3 @@ Beautiful Rising’s next stop is Harare, Zimbabwe, for our third workshop, from
 Thanks for reading. As always, we’re @BeautRising on Twitter and [Beautiful Rising on Facebook](https://www.facebook.com/BeautifulRising) and we hope you’ll keep us updated on your work too!
 
 -The Beautiful Rising Team
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
