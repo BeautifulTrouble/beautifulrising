@@ -38,7 +38,7 @@ We were inspired to see a coordinator of the Palestinian-led Boycott, Divestment
 
 ## Istanbul
 
-Next up was Istanbul, where in between cups of tea and games of backgammon, Andrew and Rae launched the Turkish edition of Beautiful Trouble - [Bela Iyidir](https://www.facebook.com/BelaIyidirDevrimKilavuzu ). As is tradition at launch parties for new language versions of [Beautiful Trouble](beautifultrouble.org), talented local musicians [sang the Table of Contents](https://www.youtube.com/watch?v=3J0fqc0h4b0&feature=youtu.be) — in this case with Turkish and Persian musicians and traditional instruments.
+Next up was Istanbul, where in between cups of tea and games of backgammon, Andrew and Rae launched the Turkish edition of _Beautiful Trouble_ - [Bela Iyidir](https://www.facebook.com/BelaIyidirDevrimKilavuzu ). As is tradition at launch parties for new language versions of [Beautiful Trouble](http://beautifultrouble.org/the-book/), talented local musicians [sang the Table of Contents](https://www.youtube.com/watch?v=3J0fqc0h4b0&feature=youtu.be) — in this case with Turkish and Persian musicians and traditional instruments.
 
 Andrew and Rae also facilitated a nonviolent action training for Turkish activists, and met with Syrian activists at [The Day After](http://tda-sy.org/?lang=en) to hear their stories of creative organizing and ideas on how best to build Beautiful Rising. 
 
