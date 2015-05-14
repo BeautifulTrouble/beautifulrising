@@ -7,8 +7,8 @@ date: "2015-05-13"
 ---
 
 
-![Amman workshop ideas cropped Safa' Al Jayoussi.jpg]({{site.baseurl}}/assets/Amman workshop ideas cropped Safa' Al Jayoussi.jpg)
-[Photo by Safa' Al Jayoussi]
+![Photo by Theis Dencker]({{site.baseurl}}/assets/Amman-2015-whiteboard-600.jpg)
+
 
 Beautiful Rising has had a very busy spring. We held a workshop at the World Social Forum in Tunisia, convened troublemakers from six countries throughout the Arab world in Amman, and met with Syrian and Turkish creative activists in Istanbul. We've heard success stories, and been thrilled to discover new tactics and ideas for effective organizing in diverse and challenging circumstances. Read on for highlights… 
 
@@ -21,6 +21,7 @@ Participants teased out key lessons from their campaigns and creative resistance
 [Read](https://beautifulrising.org/2015/03/30/beautiful-rising-at-the-world-social-forum-2015/) Rae’s full dispatch from Tunis highlighting stories of creative resistance from Myanmar to Zimbabwe. 
 
 ## Arab Regional Workshop
+![Photo by Theis Dencker]({{site.baseurl}}/assets/Amman-2015-groupshot-600.jpg)
 
 After Tunis, Beautiful Rising held our second listening workshop, from April 12-15 at ActionAid’s Global Platform in Amman, Jordan. Fifteen frontline activists from Egypt, Jordan, Syria, Lebanon, Palestine, and Tunisia came together to document action stories, build cross-movement networks, and, as co-facilitator Andrew Boyd put it, "make Beautiful Rising their own."
 
@@ -31,6 +32,9 @@ From discussions of political contexts in the Arab region to highlighting challe
 We were inspired to see a coordinator of the Palestinian-led Boycott, Divestment and Sanctions movement and an organizer with the global climate justice movement to divest from fossil fuels pair up to write a piece on divestment, and discover common principles and different challenges. “This is the magic of working across silos,” said Rae Abileah, “and distilling out best practices from our lived experience.”
 
 [Read more](https://beautifulrising.org/2015/05/13/troublemaker-s-workshop-in-amman/) about the Amman workshop in this blog post by Tunisian participant Zyna Mejri.
+
+![Amman-2015-cardgame-600.jpg]({{site.baseurl}}/assets/Amman-2015-cardgame-600.jpg)
+
 
 ## Istanbul
 
