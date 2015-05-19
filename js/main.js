@@ -16,3 +16,6 @@ $('#menu-update').click(function (e) {
     e.preventDefault();
 });
 
+$(".content img").each(function() {
+    $(this).attr("title", $(this).attr("alt"));
+});
