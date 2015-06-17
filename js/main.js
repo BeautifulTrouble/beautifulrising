@@ -17,5 +17,9 @@ $('#menu-update').click(function (e) {
 });
 
 $(".content img").each(function() {
-    $(this).attr("title", $(this).attr("alt"));
+    var alt = $(this).attr("alt");
+    if (alt) {
+        $(this).after('<h6>' + alt + '</h6>');
+        $(this).attr("title", alt);
+    }
 });
