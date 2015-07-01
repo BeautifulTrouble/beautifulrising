@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Zimbabwe Beautiful Rising: A recap"
 author: Natasha Msonza
 date: "2015-06-30"
