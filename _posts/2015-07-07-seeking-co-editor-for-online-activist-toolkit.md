@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Seeking Co-editor for Online Activist Toolkit"
 author: Søren Warburg
 date: "2015-07-07"
