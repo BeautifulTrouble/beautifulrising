@@ -8,8 +8,6 @@ date: "2015-07-07"
 
 ![ ]({{site.baseurl}}/assets/br-logo-large-inverse.png)
 
-## Job posting
-
 ### _Application deadline: August 3, 2015_
 
 Are you passionate about creative activism, radical politics and south-south international solidarity? Do your political networks include community activists at the forefront of feminist, anti-capitalist, and anti-colonial struggles in the global south? Are you a skilled editor with a keen eye for detail, an ability to synthesize complex ideas in accessible language, and a passion for using persuasive language as a tool for social change? This is an opportunity to work with a global constellation of changemakers in developing a toolkit of creative activism for activists from across Africa, Asia and Latin America.
