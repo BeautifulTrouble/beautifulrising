@@ -1,12 +1,14 @@
 ---
 layout: post
 published: true
-title: "Seeking Co-editor for Online Activist Toolkit"
+title: "Job posting - Beautiful Rising Co-editor"
 author: Søren Warburg
 date: "2015-07-07"
 ---
 
 ![ ]({{site.baseurl}}/assets/br-logo-large-inverse.png)
+
+## Seeking Co-editor for Online Activist Toolkit
 
 ### _Application deadline: August 3, 2015_
 
