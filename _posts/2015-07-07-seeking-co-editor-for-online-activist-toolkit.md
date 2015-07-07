@@ -6,6 +6,8 @@ author: Søren Warburg
 date: "2015-07-07"
 ---
 
+![ ]({{site.baseurl}}/assets/br-logo-large-inverse.png)
+
 ### _Application deadline: August 3, 2015_
 
 Are you passionate about creative activism, radical politics and south-south international solidarity? Do your political networks include community activists at the forefront of feminist, anti-capitalist, and anti-colonial struggles in the global south? Are you a skilled editor with a keen eye for detail, an ability to synthesize complex ideas in accessible language, and a passion for using persuasive language as a tool for social change? This is an opportunity to work with a global constellation of changemakers in developing a toolkit of creative activism for activists from across Africa, Asia and Latin America.
@@ -25,6 +27,3 @@ This is a part-time, contract position, averaging between 5 and 10 hours per wee
 Please email a resume, cover letter, and sample of recent work to _dave(at) beautifultrouble.org_ by **August 3, 2015.** Only those candidates short-listed for an interview will be contacted.
 
 #### _Beautiful Rising is committed to practicing anti-oppression and south-south solidarity in all aspects of our work. We strongly encourage applications from activists operating at the front lines of multiple, intersecting oppressions, and will prioritize these applicants in all hiring decisions. The successful applicant will either be based in, or have significant ties to, Africa, Asia, or Latin America._
-
-
-
