@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Call for Submissions
-permalink: /call-for-submissions/
-sidebar: 'sidebar_about.md'
+permalink: "/call-for-submissions/"
+sidebar: sidebar_about.md
+published: true
 ---
+
 
 <br/>
 
@@ -26,11 +28,13 @@ sidebar: 'sidebar_about.md'
 
 We are seeking pitches for short, focused entries (ranging from 200 to 1,000 words) on the following:
 
-* **stories** of change and resistance — both successes and failures that illustrate the tools, tactics and principles of effective, creative activism (for example, [smuggling pigs into Parliament](http://www.aljazeera.com/news/africa/2014/06/uganda-students-smuggle-pigs-into-parliament-2014619135814262144.html);
+* **stories** of change and resistance — both successes and failures that illustrate the tools, tactics and principles of effective, creative activism (for example, [activists in Uganda smuggling pigs into Parliament](http://www.aljazeera.com/news/africa/2014/06/uganda-students-smuggle-pigs-into-parliament-2014619135814262144.html);
 
 * effective **tactics** of creative activism (flash mobs, divestment, creative distruption, pots-and-pans protests, etc.);
 
 * insightful **principles** of creative activism (design guidelines of movement building and action planning);
+
+* useful **tools** for strategic campaigning and action planning (e.g. pillars of power, points of intervention, etc.);
 
 * **big ideas** about how the world works and how we change it (direct action, neoliberalism, hegemony, etc.).
 
