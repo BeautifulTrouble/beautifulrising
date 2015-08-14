@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: "Beautiful Rising: coming soon to Bangladesh and Uganda"
-author: Søren Warburg
+author: Mara Ranville
 ---
 
 
