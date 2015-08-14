@@ -1,10 +1,11 @@
 ---
 layout: post
 published: true
-title: "Seeking Co-editor for Online Activist Toolkit"
+title: "Seeking Co-editor for online activist toolkit"
 author: Søren Warburg
 date: "2015-07-07"
 ---
+
 
 ![ ]({{site.baseurl}}/assets/br-logo-large-inverse.png)
 
