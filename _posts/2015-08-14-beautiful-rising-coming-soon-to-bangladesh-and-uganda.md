@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Beautiful Rising: coming soon to Bangladesh and Uganda"
 author: Mara Ranville
 ---
