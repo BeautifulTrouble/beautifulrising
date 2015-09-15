@@ -1,9 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 title: Statement of Values
 author: Søren Warburg
 ---
+
 
 The Beautiful Rising team is committed to embodying the following values:
 
@@ -26,4 +27,3 @@ We will use and contribute to open-source software initiatives whenever possible
 The Beautiful Rising team claims no responsibility for the victories achieved, the risks incurred, the defeats suffered, nor any unintended consequences that may arise from use of the toolkit.
 
 This document is a work in progress. We welcome input on these values and expect that they will evolve throughout the production of the toolkit. Share feedback here or email dave at beautifultrouble.org, swa at ms.dk, or marceltaminato at gmail.com.
-
