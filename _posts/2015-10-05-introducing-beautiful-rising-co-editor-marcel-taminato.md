@@ -2,7 +2,8 @@
 layout: post
 published: false
 title: "Introducing Beautiful Rising co-editor Marcel Taminato"
-author: Søren Warburg
+author: Mara Ranville
+date: "2015-10-07"
 ---
 
 
