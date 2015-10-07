@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Introducing Beautiful Rising co-editor Marcel Taminato"
 author: Mara Ranville
-date: "2015-10-07"
+date: "2015-10-05"
 ---
 
 
