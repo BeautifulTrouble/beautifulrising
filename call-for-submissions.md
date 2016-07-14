@@ -22,7 +22,7 @@ published: true
 
 <br/>
 
-**_Beautiful Rising_** will be a modular toolkit of creative activism assembled by activists, organizers and troublemakers across the global south[^1] and launching spring 2016. If you’re involved in innovative, creative activism and want to work with us to document your successes (and failures!) for others to learn from them, **we want to hear from you**.
+**_Beautiful Rising_** will be a modular toolkit of creative activism assembled by activists, organizers and troublemakers across the global south[^1] and launching August 2016. If you’re involved in innovative, creative activism and want to work with us to document your successes (and failures!) for others to learn from them, **we want to hear from you**.
 
 We are seeking pitches for short, focused entries (ranging from 200 to 1,000 words) on the following:
 
@@ -56,7 +56,7 @@ If you know someone who would have valuable stories and ideas to contribute, or 
 
 <br/>
 
-**_Beautiful Rising_** is convening front-line activists and movements from across the global south to distill the most effective approaches and latest innovations in creative activism. The Beautiful Rising toolbox will launch in spring 2016 in a range of online and offline/print formats.
+**_Beautiful Rising_** is convening front-line activists and movements from across the global south to distill the most effective approaches and latest innovations in creative activism. The Beautiful Rising toolbox will launch in August 2016 in a range of online and offline/print formats.
 
 <br/>
 
