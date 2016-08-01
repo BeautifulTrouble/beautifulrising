@@ -1,12 +1,12 @@
 # Site settings
 title: Beautiful Rising
-email: beautifulrising.org@gmail.com
+email: info@beautifulrising.org
 description: "A Global Toolbox for Changemakers"
 baseurl: ""
-url: "http://beautifulrising.org"
+url: "http://ww2.beautifulrising.org"
 # Site settings (custom)
 image: "/img/br-logo-social.jpg"
-domain: "beautifulrising.org"
+domain: "ww2.beautifulrising.org"
 twittername: "BeautRising"
 
 # Build settings
@@ -19,8 +19,8 @@ mode: "production"
 # Prose configuration
 prose:
   rooturl: '_posts'
-  siteurl: 'http://beautifulrising.org/'
-  relativeLinks: 'http://beautifulrising.org/links.jsonp'
+  siteurl: 'http://ww2.beautifulrising.org/'
+  relativeLinks: 'http://ww2.beautifulrising.org/links.jsonp'
   media: 'assets'
   ignore:
     - index.md
